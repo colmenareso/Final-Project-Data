@@ -1,0 +1,551 @@
+Date (Year),Location,Property category,Average(C$)
+2005,Canada,Residential,2342865.3
+2005,Newfoundland and Labrador,Residential,18494.1
+2005,Prince Edward Island,Residential,4332.9
+2005,Nova Scotia,Residential,44301.1
+2005,New Brunswick,Residential,22649.0
+2005,Quebec,Residential,405304.6
+2005,Ontario,Residential,1030226.2
+2005,Manitoba,Residential,49302.3
+2005,Saskatchewan,Residential,36524.9
+2005,Alberta,Residential,244114.6
+2005,British Columbia,Residential,483940.9
+2005,Yukon,Residential,1231.9
+2005,Northwest Territories,Residential,1824.8
+2005,Nunavut,Residential,617.9
+2005,Total census metropolitan areas,Residential,1772106.3
+2005,"St. John's, Newfoundland and Labrador",Residential,8608.7
+2005,"Halifax, Nova Scotia",Residential,22797.2
+2005,"Saint John, New Brunswick",Residential,4198.9
+2005,"Moncton, New Brunswick",Residential,4708.7
+2005,"Montréal, Quebec",Residential,232470.6
+2005,"Québec, Quebec",Residential,34624.6
+2005,"Saguenay, Quebec",Residential,5357.8
+2005,"Sherbrooke, Quebec",Residential,9033.3
+2005,"Trois-Rivières, Quebec",Residential,4941.8
+2005,"Barrie, Ontario",Residential,14304.2
+2005,"Brantford, Ontario",Residential,7570.8
+2005,"Greater Sudbury, Ontario",Residential,6727.1
+2005,"Guelph, Ontario",Residential,9849.8
+2005,"Hamilton, Ontario",Residential,52360.2
+2005,"Kingston, Ontario",Residential,10920.0
+2005,"Kitchener-Cambridge-Waterloo, Ontario",Residential,30961.4
+2005,"London, Ontario",Residential,28600.4
+2005,"Oshawa, Ontario",Residential,25157.0
+2005,"Ottawa-Gatineau, Ontario/Quebec",Residential,90097.5
+2005,Ottawa part,Residential,73630.4
+2005,Gatineau part,Residential,16467.2
+2005,"Peterborough, Ontario",Residential,8538.1
+2005,"St. Catharines-Niagara, Ontario",Residential,25348.0
+2005,"Thunder Bay, Ontario",Residential,6039.0
+2005,"Toronto, Ontario",Residential,521306.2
+2005,"Windsor, Ontario",Residential,19916.9
+2005,"Winnipeg, Manitoba",Residential,33341.5
+2005,"Regina, Saskatchewan",Residential,9425.0
+2005,"Saskatoon, Saskatchewan",Residential,11462.6
+2005,"Calgary, Alberta",Residential,99672.5
+2005,"Edmonton, Alberta",Residential,73720.4
+2005,"Kelowna, British Columbia",Residential,18729.1
+2005,"Abbotsford-Mission, British Columbia",Residential,12482.9
+2005,"Vancouver, British Columbia",Residential,283537.7
+2005,"Victoria, British Columbia",Residential,45296.0
+2006,Canada,Residential,2675933.8
+2006,Newfoundland and Labrador,Residential,18553.5
+2006,Prince Edward Island,Residential,4982.7
+2006,Nova Scotia,Residential,48568.1
+2006,New Brunswick,Residential,23801.0
+2006,Quebec,Residential,440905.6
+2006,Ontario,Residential,1114416.8
+2006,Manitoba,Residential,52479.4
+2006,Saskatchewan,Residential,40008.0
+2006,Alberta,Residential,330440.5
+2006,British Columbia,Residential,597516.6
+2006,Yukon,Residential,1356.4
+2006,Northwest Territories,Residential,2295.4
+2006,Nunavut,Residential,609.8
+2006,Total census metropolitan areas,Residential,2024215.2
+2006,"St. John's, Newfoundland and Labrador",Residential,8696.1
+2006,"Halifax, Nova Scotia",Residential,25349.6
+2006,"Saint John, New Brunswick",Residential,4348.5
+2006,"Moncton, New Brunswick",Residential,5023.1
+2006,"Montréal, Quebec",Residential,252162.7
+2006,"Québec, Quebec",Residential,38305.6
+2006,"Saguenay, Quebec",Residential,5736.7
+2006,"Sherbrooke, Quebec",Residential,10218.0
+2006,"Trois-Rivières, Quebec",Residential,5367.9
+2006,"Barrie, Ontario",Residential,15904.2
+2006,"Brantford, Ontario",Residential,8394.8
+2006,"Greater Sudbury, Ontario",Residential,7627.0
+2006,"Guelph, Ontario",Residential,10927.0
+2006,"Hamilton, Ontario",Residential,57457.5
+2006,"Kingston, Ontario",Residential,12107.3
+2006,"Kitchener-Cambridge-Waterloo, Ontario",Residential,33811.2
+2006,"London, Ontario",Residential,31126.9
+2006,"Oshawa, Ontario",Residential,26529.5
+2006,"Ottawa-Gatineau, Ontario/Quebec",Residential,95393.5
+2006,Ottawa part,Residential,77648.1
+2006,Gatineau part,Residential,17745.4
+2006,"Peterborough, Ontario",Residential,9438.8
+2006,"St. Catharines-Niagara, Ontario",Residential,27727.3
+2006,"Thunder Bay, Ontario",Residential,6107.0
+2006,"Toronto, Ontario",Residential,560669.0
+2006,"Windsor, Ontario",Residential,20246.4
+2006,"Winnipeg, Manitoba",Residential,37129.7
+2006,"Regina, Saskatchewan",Residential,10233.8
+2006,"Saskatoon, Saskatchewan",Residential,13037.9
+2006,"Calgary, Alberta",Residential,147227.8
+2006,"Edmonton, Alberta",Residential,93362.7
+2006,"Kelowna, British Columbia",Residential,23955.1
+2006,"Abbotsford-Mission, British Columbia",Residential,15220.5
+2006,"Vancouver, British Columbia",Residential,352055.9
+2006,"Victoria, British Columbia",Residential,53316.0
+2007,Canada,Residential,3094597.8
+2007,Newfoundland and Labrador,Residential,21193.9
+2007,Prince Edward Island,Residential,5198.0
+2007,Nova Scotia,Residential,53845.7
+2007,New Brunswick,Residential,25995.5
+2007,Quebec,Residential,481942.8
+2007,Ontario,Residential,1221899.4
+2007,Manitoba,Residential,60914.0
+2007,Saskatchewan,Residential,52904.1
+2007,Alberta,Residential,472186.6
+2007,British Columbia,Residential,693927.7
+2007,Yukon,Residential,1448.7
+2007,Northwest Territories,Residential,2450.8
+2007,Nunavut,Residential,690.6
+2007,Total census metropolitan areas,Residential,2324260.5
+2007,"St. John's, Newfoundland and Labrador",Residential,9893.7
+2007,"Halifax, Nova Scotia",Residential,27702.1
+2007,"Saint John, New Brunswick",Residential,4807.8
+2007,"Moncton, New Brunswick",Residential,5520.5
+2007,"Montréal, Quebec",Residential,271801.4
+2007,"Québec, Quebec",Residential,43134.1
+2007,"Saguenay, Quebec",Residential,6593.9
+2007,"Sherbrooke, Quebec",Residential,11007.6
+2007,"Trois-Rivières, Quebec",Residential,5977.8
+2007,"Barrie, Ontario",Residential,16800.6
+2007,"Brantford, Ontario",Residential,9170.7
+2007,"Greater Sudbury, Ontario",Residential,9405.2
+2007,"Guelph, Ontario",Residential,11689.8
+2007,"Hamilton, Ontario",Residential,62705.6
+2007,"Kingston, Ontario",Residential,12822.3
+2007,"Kitchener-Cambridge-Waterloo, Ontario",Residential,36740.5
+2007,"London, Ontario",Residential,33499.0
+2007,"Oshawa, Ontario",Residential,28297.4
+2007,"Ottawa-Gatineau, Ontario/Quebec",Residential,101682.8
+2007,Ottawa part,Residential,82037.4
+2007,Gatineau part,Residential,19645.3
+2007,"Peterborough, Ontario",Residential,10004.3
+2007,"St. Catharines-Niagara, Ontario",Residential,30512.4
+2007,"Thunder Bay, Ontario",Residential,6105.6
+2007,"Toronto, Ontario",Residential,621337.0
+2007,"Windsor, Ontario",Residential,20046.1
+2007,"Winnipeg, Manitoba",Residential,42762.2
+2007,"Regina, Saskatchewan",Residential,13167.6
+2007,"Saskatoon, Saskatchewan",Residential,19951.6
+2007,"Calgary, Alberta",Residential,192228.2
+2007,"Edmonton, Alberta",Residential,155866.8
+2007,"Kelowna, British Columbia",Residential,24041.7
+2007,"Abbotsford-Mission, British Columbia",Residential,17515.4
+2007,"Vancouver, British Columbia",Residential,401621.6
+2007,"Victoria, British Columbia",Residential,59847.6
+2008,Canada,Residential,3250681.9
+2008,Newfoundland and Labrador,Residential,26206.7
+2008,Prince Edward Island,Residential,5408.6
+2008,Nova Scotia,Residential,57210.9
+2008,New Brunswick,Residential,28788.5
+2008,Quebec,Residential,529118.8
+2008,Ontario,Residential,1270456.7
+2008,Manitoba,Residential,69896.2
+2008,Saskatchewan,Residential,70669.8
+2008,Alberta,Residential,481296.1
+2008,British Columbia,Residential,706710.1
+2008,Yukon,Residential,1659.4
+2008,Northwest Territories,Residential,2493.0
+2008,Nunavut,Residential,767.1
+2008,Total census metropolitan areas,Residential,2426405.6
+2008,"St. John's, Newfoundland and Labrador",Residential,12376.9
+2008,"Halifax, Nova Scotia",Residential,29742.5
+2008,"Saint John, New Brunswick",Residential,5625.8
+2008,"Moncton, New Brunswick",Residential,6155.7
+2008,"Montréal, Quebec",Residential,297657.2
+2008,"Québec, Quebec",Residential,48284.1
+2008,"Saguenay, Quebec",Residential,7170.9
+2008,"Sherbrooke, Quebec",Residential,11798.1
+2008,"Trois-Rivières, Quebec",Residential,6687.3
+2008,"Barrie, Ontario",Residential,17509.2
+2008,"Brantford, Ontario",Residential,9474.9
+2008,"Greater Sudbury, Ontario",Residential,11044.0
+2008,"Guelph, Ontario",Residential,12117.8
+2008,"Hamilton, Ontario",Residential,66581.4
+2008,"Kingston, Ontario",Residential,13218.6
+2008,"Kitchener-Cambridge-Waterloo, Ontario",Residential,39938.4
+2008,"London, Ontario",Residential,35721.3
+2008,"Oshawa, Ontario",Residential,29714.5
+2008,"Ottawa-Gatineau, Ontario/Quebec",Residential,110899.2
+2008,Ottawa part,Residential,89639.0
+2008,Gatineau part,Residential,21260.2
+2008,"Peterborough, Ontario",Residential,10310.0
+2008,"St. Catharines-Niagara, Ontario",Residential,31427.2
+2008,"Thunder Bay, Ontario",Residential,6597.1
+2008,"Toronto, Ontario",Residential,639716.6
+2008,"Windsor, Ontario",Residential,19695.3
+2008,"Winnipeg, Manitoba",Residential,49192.5
+2008,"Regina, Saskatchewan",Residential,18682.6
+2008,"Saskatoon, Saskatchewan",Residential,25503.8
+2008,"Calgary, Alberta",Residential,191705.4
+2008,"Edmonton, Alberta",Residential,150328.8
+2008,"Kelowna, British Columbia",Residential,24737.9
+2008,"Abbotsford-Mission, British Columbia",Residential,17833.0
+2008,"Vancouver, British Columbia",Residential,408189.4
+2008,"Victoria, British Columbia",Residential,60768.2
+2009,Canada,Residential,3333268.2
+2009,Newfoundland and Labrador,Residential,31080.9
+2009,Prince Edward Island,Residential,5842.4
+2009,Nova Scotia,Residential,60710.2
+2009,New Brunswick,Residential,31012.4
+2009,Quebec,Residential,561497.8
+2009,Ontario,Residential,1331141.8
+2009,Manitoba,Residential,72347.9
+2009,Saskatchewan,Residential,77078.1
+2009,Alberta,Residential,443476.8
+2009,British Columbia,Residential,713745.3
+2009,Yukon,Residential,1617.1
+2009,Northwest Territories,Residential,2868.8
+2009,Nunavut,Residential,848.7
+2009,Total census metropolitan areas,Residential,2477868.3
+2009,"St. John's, Newfoundland and Labrador",Residential,14807.9
+2009,"Halifax, Nova Scotia",Residential,31125.4
+2009,"Saint John, New Brunswick",Residential,6433.5
+2009,"Moncton, New Brunswick",Residential,6646.9
+2009,"Montréal, Quebec",Residential,313050.6
+2009,"Québec, Quebec",Residential,53490.5
+2009,"Saguenay, Quebec",Residential,7675.8
+2009,"Sherbrooke, Quebec",Residential,12455.1
+2009,"Trois-Rivières, Quebec",Residential,6949.4
+2009,"Barrie, Ontario",Residential,18152.3
+2009,"Brantford, Ontario",Residential,9862.9
+2009,"Greater Sudbury, Ontario",Residential,10586.7
+2009,"Guelph, Ontario",Residential,12629.9
+2009,"Hamilton, Ontario",Residential,69422.7
+2009,"Kingston, Ontario",Residential,13875.2
+2009,"Kitchener-Cambridge-Waterloo, Ontario",Residential,40288.3
+2009,"London, Ontario",Residential,36537.9
+2009,"Oshawa, Ontario",Residential,30614.9
+2009,"Ottawa-Gatineau, Ontario/Quebec",Residential,118807.9
+2009,Ottawa part,Residential,95861.8
+2009,Gatineau part,Residential,22946.1
+2009,"Peterborough, Ontario",Residential,10739.2
+2009,"St. Catharines-Niagara, Ontario",Residential,32086.8
+2009,"Thunder Bay, Ontario",Residential,6905.5
+2009,"Toronto, Ontario",Residential,677060.3
+2009,"Windsor, Ontario",Residential,19010.4
+2009,"Winnipeg, Manitoba",Residential,51586.1
+2009,"Regina, Saskatchewan",Residential,19080.7
+2009,"Saskatoon, Saskatchewan",Residential,24940.2
+2009,"Calgary, Alberta",Residential,171976.4
+2009,"Edmonton, Alberta",Residential,136011.7
+2009,"Kelowna, British Columbia",Residential,24720.6
+2009,"Abbotsford-Mission, British Columbia",Residential,17543.5
+2009,"Vancouver, British Columbia",Residential,409900.8
+2009,"Victoria, British Columbia",Residential,62892.0
+2010,Canada,Residential,3605446.0
+2010,Newfoundland and Labrador,Residential,32865.3
+2010,Prince Edward Island,Residential,6096.8
+2010,Nova Scotia,Residential,63897.4
+2010,New Brunswick,Residential,32920.1
+2010,Quebec,Residential,612968.6
+2010,Ontario,Residential,1431716.0
+2010,Manitoba,Residential,80865.5
+2010,Saskatchewan,Residential,82054.3
+2010,Alberta,Residential,479092.7
+2010,British Columbia,Residential,776890.9
+2010,Yukon,Residential,1870.4
+2010,Northwest Territories,Residential,3263.3
+2010,Nunavut,Residential,944.7
+2010,Total census metropolitan areas,Residential,2707515.9
+2010,"St. John's, Newfoundland and Labrador",Residential,17529.4
+2010,"Halifax, Nova Scotia",Residential,33720.2
+2010,"Saint John, New Brunswick",Residential,6666.0
+2010,"Moncton, New Brunswick",Residential,7062.5
+2010,"Montréal, Quebec",Residential,342425.0
+2010,"Québec, Quebec",Residential,60457.2
+2010,"Saguenay, Quebec",Residential,8856.7
+2010,"Sherbrooke, Quebec",Residential,13336.2
+2010,"Trois-Rivières, Quebec",Residential,7645.7
+2010,"Barrie, Ontario",Residential,18570.7
+2010,"Brantford, Ontario",Residential,10145.9
+2010,"Greater Sudbury, Ontario",Residential,12583.5
+2010,"Guelph, Ontario",Residential,13995.7
+2010,"Hamilton, Ontario",Residential,69710.1
+2010,"Kingston, Ontario",Residential,15158.9
+2010,"Kitchener-Cambridge-Waterloo, Ontario",Residential,44055.3
+2010,"London, Ontario",Residential,39470.8
+2010,"Oshawa, Ontario",Residential,31824.3
+2010,"Ottawa-Gatineau, Ontario/Quebec",Residential,134660.5
+2010,Ottawa part,Residential,110077.5
+2010,Gatineau part,Residential,24583.1
+2010,"Peterborough, Ontario",Residential,11016.7
+2010,"St. Catharines-Niagara, Ontario",Residential,32675.1
+2010,"Thunder Bay, Ontario",Residential,6844.0
+2010,"Toronto, Ontario",Residential,733466.5
+2010,"Windsor, Ontario",Residential,19388.8
+2010,"Winnipeg, Manitoba",Residential,57773.6
+2010,"Regina, Saskatchewan",Residential,20580.0
+2010,"Saskatoon, Saskatchewan",Residential,27431.7
+2010,"Calgary, Alberta",Residential,188939.3
+2010,"Edmonton, Alberta",Residential,149501.2
+2010,"Kelowna, British Columbia",Residential,25152.1
+2010,"Abbotsford-Mission, British Columbia",Residential,18523.5
+2010,"Vancouver, British Columbia",Residential,462084.7
+2010,"Victoria, British Columbia",Residential,66263.8
+2011,Canada,Residential,3839636.6
+2011,Newfoundland and Labrador,Residential,36210.3
+2011,Prince Edward Island,Residential,6208.4
+2011,Nova Scotia,Residential,68103.9
+2011,New Brunswick,Residential,34933.5
+2011,Quebec,Residential,657868.2
+2011,Ontario,Residential,1547692.8
+2011,Manitoba,Residential,86433.3
+2011,Saskatchewan,Residential,88696.1
+2011,Alberta,Residential,482599.1
+2011,British Columbia,Residential,824506.2
+2011,Yukon,Residential,1920.4
+2011,Northwest Territories,Residential,3363.5
+2011,Nunavut,Residential,1101.1
+2011,Total census metropolitan areas,Residential,2917246.8
+2011,"St. John's, Newfoundland and Labrador",Residential,19370.3
+2011,"Halifax, Nova Scotia",Residential,35627.5
+2011,"Saint John, New Brunswick",Residential,7402.9
+2011,"Moncton, New Brunswick",Residential,7667.7
+2011,"Montréal, Quebec",Residential,367281.2
+2011,"Québec, Quebec",Residential,66468.7
+2011,"Saguenay, Quebec",Residential,10028.2
+2011,"Sherbrooke, Quebec",Residential,15111.0
+2011,"Trois-Rivières, Quebec",Residential,8171.2
+2011,"Barrie, Ontario",Residential,19481.3
+2011,"Brantford, Ontario",Residential,10671.8
+2011,"Greater Sudbury, Ontario",Residential,13170.2
+2011,"Guelph, Ontario",Residential,16138.0
+2011,"Hamilton, Ontario",Residential,76011.3
+2011,"Kingston, Ontario",Residential,16051.2
+2011,"Kitchener-Cambridge-Waterloo, Ontario",Residential,47285.8
+2011,"London, Ontario",Residential,40847.8
+2011,"Oshawa, Ontario",Residential,34003.2
+2011,"Ottawa-Gatineau, Ontario/Quebec",Residential,145037.5
+2011,Ottawa part,Residential,118359.5
+2011,Gatineau part,Residential,26678.0
+2011,"Peterborough, Ontario",Residential,11556.1
+2011,"St. Catharines-Niagara, Ontario",Residential,33874.0
+2011,"Thunder Bay, Ontario",Residential,7888.7
+2011,"Toronto, Ontario",Residential,807348.2
+2011,"Windsor, Ontario",Residential,20318.7
+2011,"Winnipeg, Manitoba",Residential,61896.4
+2011,"Regina, Saskatchewan",Residential,22700.7
+2011,"Saskatoon, Saskatchewan",Residential,28986.3
+2011,"Calgary, Alberta",Residential,187702.8
+2011,"Edmonton, Alberta",Residential,151600.3
+2011,"Kelowna, British Columbia",Residential,30420.9
+2011,"Abbotsford-Mission, British Columbia",Residential,18537.3
+2011,"Vancouver, British Columbia",Residential,512530.8
+2011,"Victoria, British Columbia",Residential,66058.6
+2012,Canada,Residential,4058854.2
+2012,Newfoundland and Labrador,Residential,39883.3
+2012,Prince Edward Island,Residential,6321.6
+2012,Nova Scotia,Residential,70517.9
+2012,New Brunswick,Residential,37674.8
+2012,Quebec,Residential,702641.9
+2012,Ontario,Residential,1664403.2
+2012,Manitoba,Residential,92882.5
+2012,Saskatchewan,Residential,97691.5
+2012,Alberta,Residential,505121.7
+2012,British Columbia,Residential,835011.9
+2012,Yukon,Residential,2067.6
+2012,Northwest Territories,Residential,3492.9
+2012,Nunavut,Residential,1143.5
+2012,Total census metropolitan areas,Residential,3101762.7
+2012,"St. John's, Newfoundland and Labrador",Residential,21387.2
+2012,"Halifax, Nova Scotia",Residential,37504.3
+2012,"Saint John, New Brunswick",Residential,7465.0
+2012,"Moncton, New Brunswick",Residential,8207.8
+2012,"Montréal, Quebec",Residential,391822.3
+2012,"Québec, Quebec",Residential,71677.9
+2012,"Saguenay, Quebec",Residential,10881.4
+2012,"Sherbrooke, Quebec",Residential,16070.1
+2012,"Trois-Rivières, Quebec",Residential,8729.4
+2012,"Barrie, Ontario",Residential,20338.5
+2012,"Brantford, Ontario",Residential,11167.6
+2012,"Greater Sudbury, Ontario",Residential,13931.1
+2012,"Guelph, Ontario",Residential,16906.7
+2012,"Hamilton, Ontario",Residential,82659.9
+2012,"Kingston, Ontario",Residential,16841.0
+2012,"Kitchener-Cambridge-Waterloo, Ontario",Residential,49457.4
+2012,"London, Ontario",Residential,42715.7
+2012,"Oshawa, Ontario",Residential,36682.2
+2012,"Ottawa-Gatineau, Ontario/Quebec",Residential,152235.9
+2012,Ottawa part,Residential,123384.1
+2012,Gatineau part,Residential,28851.8
+2012,"Peterborough, Ontario",Residential,12056.7
+2012,"St. Catharines-Niagara, Ontario",Residential,35539.8
+2012,"Thunder Bay, Ontario",Residential,8797.0
+2012,"Toronto, Ontario",Residential,886014.9
+2012,"Windsor, Ontario",Residential,21186.3
+2012,"Winnipeg, Manitoba",Residential,66558.8
+2012,"Regina, Saskatchewan",Residential,25873.3
+2012,"Saskatoon, Saskatchewan",Residential,31934.2
+2012,"Calgary, Alberta",Residential,197120.2
+2012,"Edmonton, Alberta",Residential,158999.3
+2012,"Kelowna, British Columbia",Residential,30038.1
+2012,"Abbotsford-Mission, British Columbia",Residential,18500.3
+2012,"Vancouver, British Columbia",Residential,527883.7
+2012,"Victoria, British Columbia",Residential,64578.8
+2013,Canada,Residential,4231242.2
+2013,Newfoundland and Labrador,Residential,43395.6
+2013,Prince Edward Island,Residential,6533.8
+2013,Nova Scotia,Residential,72839.2
+2013,New Brunswick,Residential,38954.6
+2013,Quebec,Residential,731331.1
+2013,Ontario,Residential,1751581.1
+2013,Manitoba,Residential,100934.9
+2013,Saskatchewan,Residential,105563.2
+2013,Alberta,Residential,534974.9
+2013,British Columbia,Residential,838144.5
+2013,Yukon,Residential,2217.3
+2013,Northwest Territories,Residential,3531.3
+2013,Nunavut,Residential,1240.8
+2013,Total census metropolitan areas,Residential,3245004.7
+2013,"St. John's, Newfoundland and Labrador",Residential,22945.6
+2013,"Halifax, Nova Scotia",Residential,39238.6
+2013,"Saint John, New Brunswick",Residential,7834.9
+2013,"Moncton, New Brunswick",Residential,8380.3
+2013,"Montréal, Quebec",Residential,405680.3
+2013,"Québec, Quebec",Residential,75313.8
+2013,"Saguenay, Quebec",Residential,11760.8
+2013,"Sherbrooke, Quebec",Residential,16737.1
+2013,"Trois-Rivières, Quebec",Residential,9054.3
+2013,"Barrie, Ontario",Residential,21528.1
+2013,"Brantford, Ontario",Residential,11643.2
+2013,"Greater Sudbury, Ontario",Residential,15039.0
+2013,"Guelph, Ontario",Residential,18206.6
+2013,"Hamilton, Ontario",Residential,87199.8
+2013,"Kingston, Ontario",Residential,17561.9
+2013,"Kitchener-Cambridge-Waterloo, Ontario",Residential,51903.5
+2013,"London, Ontario",Residential,42536.6
+2013,"Oshawa, Ontario",Residential,39309.5
+2013,"Ottawa-Gatineau, Ontario/Quebec",Residential,157734.8
+2013,Ottawa part,Residential,127776.1
+2013,Gatineau part,Residential,29958.7
+2013,"Peterborough, Ontario",Residential,12307.0
+2013,"St. Catharines-Niagara, Ontario",Residential,35965.3
+2013,"Thunder Bay, Ontario",Residential,10407.3
+2013,"Toronto, Ontario",Residential,947575.6
+2013,"Windsor, Ontario",Residential,21732.9
+2013,"Winnipeg, Manitoba",Residential,71267.1
+2013,"Regina, Saskatchewan",Residential,28068.1
+2013,"Saskatoon, Saskatchewan",Residential,34549.7
+2013,"Calgary, Alberta",Residential,211930.9
+2013,"Edmonton, Alberta",Residential,167498.5
+2013,"Kelowna, British Columbia",Residential,29924.4
+2013,"Abbotsford-Mission, British Columbia",Residential,18446.0
+2013,"Vancouver, British Columbia",Residential,532842.9
+2013,"Victoria, British Columbia",Residential,62880.2
+2014,Canada,Residential,4488411.6
+2014,Newfoundland and Labrador,Residential,44149.0
+2014,Prince Edward Island,Residential,6774.7
+2014,Nova Scotia,Residential,73571.4
+2014,New Brunswick,Residential,40482.0
+2014,Quebec,Residential,739232.7
+2014,Ontario,Residential,1889627.5
+2014,Manitoba,Residential,105207.5
+2014,Saskatchewan,Residential,110077.3
+2014,Alberta,Residential,587883.7
+2014,British Columbia,Residential,884106.2
+2014,Yukon,Residential,2280.2
+2014,Northwest Territories,Residential,3759.3
+2014,Nunavut,Residential,1260.2
+2014,Total census metropolitan areas,Residential,3463765.3
+2014,"St. John's, Newfoundland and Labrador",Residential,23444.0
+2014,"Halifax, Nova Scotia",Residential,39308.3
+2014,"Saint John, New Brunswick",Residential,7898.1
+2014,"Moncton, New Brunswick",Residential,8897.1
+2014,"Montréal, Quebec",Residential,409279.2
+2014,"Québec, Quebec",Residential,76729.4
+2014,"Saguenay, Quebec",Residential,11632.1
+2014,"Sherbrooke, Quebec",Residential,17048.9
+2014,"Trois-Rivières, Quebec",Residential,9425.6
+2014,"Barrie, Ontario",Residential,22647.2
+2014,"Brantford, Ontario",Residential,12244.0
+2014,"Greater Sudbury, Ontario",Residential,15426.6
+2014,"Guelph, Ontario",Residential,19205.7
+2014,"Hamilton, Ontario",Residential,93308.6
+2014,"Kingston, Ontario",Residential,18478.3
+2014,"Kitchener-Cambridge-Waterloo, Ontario",Residential,54748.9
+2014,"London, Ontario",Residential,44541.9
+2014,"Oshawa, Ontario",Residential,43713.6
+2014,"Ottawa-Gatineau, Ontario/Quebec",Residential,162527.0
+2014,Ottawa part,Residential,131863.4
+2014,Gatineau part,Residential,30663.7
+2014,"Peterborough, Ontario",Residential,12938.7
+2014,"St. Catharines-Niagara, Ontario",Residential,38092.8
+2014,"Thunder Bay, Ontario",Residential,11191.3
+2014,"Toronto, Ontario",Residential,1043127.1
+2014,"Windsor, Ontario",Residential,22785.0
+2014,"Winnipeg, Manitoba",Residential,73903.4
+2014,"Regina, Saskatchewan",Residential,28861.2
+2014,"Saskatoon, Saskatchewan",Residential,35994.5
+2014,"Calgary, Alberta",Residential,239644.7
+2014,"Edmonton, Alberta",Residential,182633.5
+2014,"Kelowna, British Columbia",Residential,31682.1
+2014,"Abbotsford-Mission, British Columbia",Residential,18815.1
+2014,"Vancouver, British Columbia",Residential,570407.3
+2014,"Victoria, British Columbia",Residential,63184.2
+2015,Canada,Residential,4821415.7
+2015,Newfoundland and Labrador,Residential,43173.6
+2015,Prince Edward Island,Residential,6815.6
+2015,Nova Scotia,Residential,75609.9
+2015,New Brunswick,Residential,40128.2
+2015,Quebec,Residential,772235.2
+2015,Ontario,Residential,2059967.7
+2015,Manitoba,Residential,108306.5
+2015,Saskatchewan,Residential,113177.8
+2015,Alberta,Residential,608100.0
+2015,British Columbia,Residential,986439.8
+2015,Yukon,Residential,2391.4
+2015,Northwest Territories,Residential,3697.7
+2015,Nunavut,Residential,1372.4
+2015,Total census metropolitan areas,Residential,3776034.1
+2015,"St. John's, Newfoundland and Labrador",Residential,22967.2
+2015,"Halifax, Nova Scotia",Residential,41355.9
+2015,"Saint John, New Brunswick",Residential,7758.5
+2015,"Moncton, New Brunswick",Residential,8990.2
+2015,"Montréal, Quebec",Residential,439417.0
+2015,"Québec, Quebec",Residential,78698.5
+2015,"Saguenay, Quebec",Residential,11840.0
+2015,"Sherbrooke, Quebec",Residential,17451.1
+2015,"Trois-Rivières, Quebec",Residential,9749.0
+2015,"Barrie, Ontario",Residential,23654.4
+2015,"Brantford, Ontario",Residential,12810.1
+2015,"Greater Sudbury, Ontario",Residential,15225.5
+2015,"Guelph, Ontario",Residential,20171.7
+2015,"Hamilton, Ontario",Residential,103135.4
+2015,"Kingston, Ontario",Residential,19234.7
+2015,"Kitchener-Cambridge-Waterloo, Ontario",Residential,61235.4
+2015,"London, Ontario",Residential,46833.1
+2015,"Oshawa, Ontario",Residential,50547.3
+2015,"Ottawa-Gatineau, Ontario/Quebec",Residential,169491.1
+2015,Ottawa part,Residential,137634.3
+2015,Gatineau part,Residential,31856.7
+2015,"Peterborough, Ontario",Residential,13489.2
+2015,"St. Catharines-Niagara, Ontario",Residential,41746.1
+2015,"Thunder Bay, Ontario",Residential,11680.9
+2015,"Toronto, Ontario",Residential,1166506.4
+2015,"Windsor, Ontario",Residential,24128.1
+2015,"Winnipeg, Manitoba",Residential,76571.8
+2015,"Regina, Saskatchewan",Residential,29267.1
+2015,"Saskatoon, Saskatchewan",Residential,37478.2
+2015,"Calgary, Alberta",Residential,244111.2
+2015,"Edmonton, Alberta",Residential,192704.7
+2015,"Kelowna, British Columbia",Residential,34253.8
+2015,"Abbotsford-Mission, British Columbia",Residential,20032.1
+2015,"Vancouver, British Columbia",Residential,657215.8
+2015,"Victoria, British Columbia",Residential,66282.8

@@ -1,0 +1,1156 @@
+Date (Year),Location,Income category,Average(C$)
+2008,Canada,Household disposable income,858285.0
+2008,Canada,Plus: social transfers in kind,224274.0
+2008,Canada,Equals: adjusted household disposable income,1082559.0
+2008,Canada,Adjusted household disposable income,1082559.0
+2008,Canada,Minus: household actual final consumption,1099472.0
+2008,Canada,Plus: change in pension entitlements,45397.0
+2008,Canada,Equals: household net saving,28484.0
+2008,Newfoundland and Labrador,Household disposable income,11824.0
+2008,Newfoundland and Labrador,Plus: social transfers in kind,3856.0
+2008,Newfoundland and Labrador,Equals: adjusted household disposable income,15680.0
+2008,Newfoundland and Labrador,Adjusted household disposable income,15680.0
+2008,Newfoundland and Labrador,Minus: household actual final consumption,15993.0
+2008,Newfoundland and Labrador,Plus: change in pension entitlements,718.0
+2008,Newfoundland and Labrador,Equals: household net saving,405.0
+2008,Prince Edward Island,Household disposable income,3021.0
+2008,Prince Edward Island,Plus: social transfers in kind,886.0
+2008,Prince Edward Island,Equals: adjusted household disposable income,3907.0
+2008,Prince Edward Island,Adjusted household disposable income,3907.0
+2008,Prince Edward Island,Minus: household actual final consumption,4249.0
+2008,Prince Edward Island,Plus: change in pension entitlements,208.0
+2008,Prince Edward Island,Equals: household net saving,-134.0
+2008,Nova Scotia,Household disposable income,21059.0
+2008,Nova Scotia,Plus: social transfers in kind,6175.0
+2008,Nova Scotia,Equals: adjusted household disposable income,27234.0
+2008,Nova Scotia,Adjusted household disposable income,27234.0
+2008,Nova Scotia,Minus: household actual final consumption,29767.0
+2008,Nova Scotia,Plus: change in pension entitlements,1820.0
+2008,Nova Scotia,Equals: household net saving,-713.0
+2008,New Brunswick,Household disposable income,16713.0
+2008,New Brunswick,Plus: social transfers in kind,5167.0
+2008,New Brunswick,Equals: adjusted household disposable income,21880.0
+2008,New Brunswick,Adjusted household disposable income,21880.0
+2008,New Brunswick,Minus: household actual final consumption,22971.0
+2008,New Brunswick,Plus: change in pension entitlements,1162.0
+2008,New Brunswick,Equals: household net saving,71.0
+2008,Quebec,Household disposable income,177597.0
+2008,Quebec,Plus: social transfers in kind,50413.0
+2008,Quebec,Equals: adjusted household disposable income,228010.0
+2008,Quebec,Adjusted household disposable income,228010.0
+2008,Quebec,Minus: household actual final consumption,233930.0
+2008,Quebec,Plus: change in pension entitlements,13397.0
+2008,Quebec,Equals: household net saving,7477.0
+2008,Ontario,Household disposable income,334652.0
+2008,Ontario,Plus: social transfers in kind,86571.0
+2008,Ontario,Equals: adjusted household disposable income,421223.0
+2008,Ontario,Adjusted household disposable income,421223.0
+2008,Ontario,Minus: household actual final consumption,427065.0
+2008,Ontario,Plus: change in pension entitlements,15971.0
+2008,Ontario,Equals: household net saving,10129.0
+2008,Manitoba,Household disposable income,27475.0
+2008,Manitoba,Plus: social transfers in kind,9368.0
+2008,Manitoba,Equals: adjusted household disposable income,36843.0
+2008,Manitoba,Adjusted household disposable income,36843.0
+2008,Manitoba,Minus: household actual final consumption,38470.0
+2008,Manitoba,Plus: change in pension entitlements,1668.0
+2008,Manitoba,Equals: household net saving,41.0
+2008,Saskatchewan,Household disposable income,27351.0
+2008,Saskatchewan,Plus: social transfers in kind,7421.0
+2008,Saskatchewan,Equals: adjusted household disposable income,34772.0
+2008,Saskatchewan,Adjusted household disposable income,34772.0
+2008,Saskatchewan,Minus: household actual final consumption,33956.0
+2008,Saskatchewan,Plus: change in pension entitlements,1301.0
+2008,Saskatchewan,Equals: household net saving,2117.0
+2008,Alberta,Household disposable income,118468.0
+2008,Alberta,Plus: social transfers in kind,24871.0
+2008,Alberta,Equals: adjusted household disposable income,143339.0
+2008,Alberta,Adjusted household disposable income,143339.0
+2008,Alberta,Minus: household actual final consumption,136787.0
+2008,Alberta,Plus: change in pension entitlements,3819.0
+2008,Alberta,Equals: household net saving,10371.0
+2008,British Columbia,Household disposable income,116186.0
+2008,British Columbia,Plus: social transfers in kind,27627.0
+2008,British Columbia,Equals: adjusted household disposable income,143813.0
+2008,British Columbia,Adjusted household disposable income,143813.0
+2008,British Columbia,Minus: household actual final consumption,151338.0
+2008,British Columbia,Plus: change in pension entitlements,5140.0
+2008,British Columbia,Equals: household net saving,-2385.0
+2008,Yukon,Household disposable income,1106.0
+2008,Yukon,Plus: social transfers in kind,481.0
+2008,Yukon,Equals: adjusted household disposable income,1587.0
+2008,Yukon,Adjusted household disposable income,1587.0
+2008,Yukon,Minus: household actual final consumption,1455.0
+2008,Yukon,Plus: change in pension entitlements,72.0
+2008,Yukon,Equals: household net saving,204.0
+2008,Northwest Territories,Household disposable income,1539.0
+2008,Northwest Territories,Plus: social transfers in kind,792.0
+2008,Northwest Territories,Equals: adjusted household disposable income,2331.0
+2008,Northwest Territories,Adjusted household disposable income,2331.0
+2008,Northwest Territories,Minus: household actual final consumption,2121.0
+2008,Northwest Territories,Plus: change in pension entitlements,86.0
+2008,Northwest Territories,Equals: household net saving,296.0
+2008,Nunavut,Household disposable income,861.0
+2008,Nunavut,Plus: social transfers in kind,646.0
+2008,Nunavut,Equals: adjusted household disposable income,1507.0
+2008,Nunavut,Adjusted household disposable income,1507.0
+2008,Nunavut,Minus: household actual final consumption,1228.0
+2008,Nunavut,Plus: change in pension entitlements,35.0
+2008,Nunavut,Equals: household net saving,314.0
+2008,Outside Canada,Household disposable income,433.0
+2008,Outside Canada,Plus: social transfers in kind,0.0
+2008,Outside Canada,Equals: adjusted household disposable income,433.0
+2008,Outside Canada,Adjusted household disposable income,433.0
+2008,Outside Canada,Minus: household actual final consumption,142.0
+2008,Outside Canada,Plus: change in pension entitlements,
+2008,Outside Canada,Equals: household net saving,291.0
+2009,Canada,Household disposable income,880814.0
+2009,Canada,Plus: social transfers in kind,234351.0
+2009,Canada,Equals: adjusted household disposable income,1115165.0
+2009,Canada,Adjusted household disposable income,1115165.0
+2009,Canada,Minus: household actual final consumption,1112553.0
+2009,Canada,Plus: change in pension entitlements,38057.0
+2009,Canada,Equals: household net saving,40669.0
+2009,Newfoundland and Labrador,Household disposable income,12712.0
+2009,Newfoundland and Labrador,Plus: social transfers in kind,4321.0
+2009,Newfoundland and Labrador,Equals: adjusted household disposable income,17033.0
+2009,Newfoundland and Labrador,Adjusted household disposable income,17033.0
+2009,Newfoundland and Labrador,Minus: household actual final consumption,16863.0
+2009,Newfoundland and Labrador,Plus: change in pension entitlements,567.0
+2009,Newfoundland and Labrador,Equals: household net saving,737.0
+2009,Prince Edward Island,Household disposable income,3190.0
+2009,Prince Edward Island,Plus: social transfers in kind,942.0
+2009,Prince Edward Island,Equals: adjusted household disposable income,4132.0
+2009,Prince Edward Island,Adjusted household disposable income,4132.0
+2009,Prince Edward Island,Minus: household actual final consumption,4338.0
+2009,Prince Edward Island,Plus: change in pension entitlements,185.0
+2009,Prince Edward Island,Equals: household net saving,-21.0
+2009,Nova Scotia,Household disposable income,21900.0
+2009,Nova Scotia,Plus: social transfers in kind,6407.0
+2009,Nova Scotia,Equals: adjusted household disposable income,28307.0
+2009,Nova Scotia,Adjusted household disposable income,28307.0
+2009,Nova Scotia,Minus: household actual final consumption,30333.0
+2009,Nova Scotia,Plus: change in pension entitlements,1583.0
+2009,Nova Scotia,Equals: household net saving,-443.0
+2009,New Brunswick,Household disposable income,17351.0
+2009,New Brunswick,Plus: social transfers in kind,5284.0
+2009,New Brunswick,Equals: adjusted household disposable income,22635.0
+2009,New Brunswick,Adjusted household disposable income,22635.0
+2009,New Brunswick,Minus: household actual final consumption,23367.0
+2009,New Brunswick,Plus: change in pension entitlements,976.0
+2009,New Brunswick,Equals: household net saving,244.0
+2009,Quebec,Household disposable income,181617.0
+2009,Quebec,Plus: social transfers in kind,51963.0
+2009,Quebec,Equals: adjusted household disposable income,233580.0
+2009,Quebec,Adjusted household disposable income,233580.0
+2009,Quebec,Minus: household actual final consumption,237004.0
+2009,Quebec,Plus: change in pension entitlements,11673.0
+2009,Quebec,Equals: household net saving,8249.0
+2009,Ontario,Household disposable income,347629.0
+2009,Ontario,Plus: social transfers in kind,90850.0
+2009,Ontario,Equals: adjusted household disposable income,438479.0
+2009,Ontario,Adjusted household disposable income,438479.0
+2009,Ontario,Minus: household actual final consumption,430563.0
+2009,Ontario,Plus: change in pension entitlements,13139.0
+2009,Ontario,Equals: household net saving,21055.0
+2009,Manitoba,Household disposable income,28536.0
+2009,Manitoba,Plus: social transfers in kind,9771.0
+2009,Manitoba,Equals: adjusted household disposable income,38307.0
+2009,Manitoba,Adjusted household disposable income,38307.0
+2009,Manitoba,Minus: household actual final consumption,39438.0
+2009,Manitoba,Plus: change in pension entitlements,1391.0
+2009,Manitoba,Equals: household net saving,260.0
+2009,Saskatchewan,Household disposable income,27374.0
+2009,Saskatchewan,Plus: social transfers in kind,7934.0
+2009,Saskatchewan,Equals: adjusted household disposable income,35308.0
+2009,Saskatchewan,Adjusted household disposable income,35308.0
+2009,Saskatchewan,Minus: household actual final consumption,35277.0
+2009,Saskatchewan,Plus: change in pension entitlements,1125.0
+2009,Saskatchewan,Equals: household net saving,1156.0
+2009,Alberta,Household disposable income,118220.0
+2009,Alberta,Plus: social transfers in kind,26667.0
+2009,Alberta,Equals: adjusted household disposable income,144887.0
+2009,Alberta,Adjusted household disposable income,144887.0
+2009,Alberta,Minus: household actual final consumption,136933.0
+2009,Alberta,Plus: change in pension entitlements,3006.0
+2009,Alberta,Equals: household net saving,10960.0
+2009,British Columbia,Household disposable income,118362.0
+2009,British Columbia,Plus: social transfers in kind,28174.0
+2009,British Columbia,Equals: adjusted household disposable income,146536.0
+2009,British Columbia,Adjusted household disposable income,146536.0
+2009,British Columbia,Minus: household actual final consumption,153331.0
+2009,British Columbia,Plus: change in pension entitlements,4262.0
+2009,British Columbia,Equals: household net saving,-2533.0
+2009,Yukon,Household disposable income,1142.0
+2009,Yukon,Plus: social transfers in kind,505.0
+2009,Yukon,Equals: adjusted household disposable income,1647.0
+2009,Yukon,Adjusted household disposable income,1647.0
+2009,Yukon,Minus: household actual final consumption,1505.0
+2009,Yukon,Plus: change in pension entitlements,58.0
+2009,Yukon,Equals: household net saving,200.0
+2009,Northwest Territories,Household disposable income,1528.0
+2009,Northwest Territories,Plus: social transfers in kind,886.0
+2009,Northwest Territories,Equals: adjusted household disposable income,2414.0
+2009,Northwest Territories,Adjusted household disposable income,2414.0
+2009,Northwest Territories,Minus: household actual final consumption,2219.0
+2009,Northwest Territories,Plus: change in pension entitlements,67.0
+2009,Northwest Territories,Equals: household net saving,262.0
+2009,Nunavut,Household disposable income,839.0
+2009,Nunavut,Plus: social transfers in kind,647.0
+2009,Nunavut,Equals: adjusted household disposable income,1486.0
+2009,Nunavut,Adjusted household disposable income,1486.0
+2009,Nunavut,Minus: household actual final consumption,1245.0
+2009,Nunavut,Plus: change in pension entitlements,25.0
+2009,Nunavut,Equals: household net saving,266.0
+2009,Outside Canada,Household disposable income,416.0
+2009,Outside Canada,Plus: social transfers in kind,0.0
+2009,Outside Canada,Equals: adjusted household disposable income,416.0
+2009,Outside Canada,Adjusted household disposable income,416.0
+2009,Outside Canada,Minus: household actual final consumption,137.0
+2009,Outside Canada,Plus: change in pension entitlements,
+2009,Outside Canada,Equals: household net saving,279.0
+2010,Canada,Household disposable income,924174.0
+2010,Canada,Plus: social transfers in kind,243381.0
+2010,Canada,Equals: adjusted household disposable income,1167555.0
+2010,Canada,Adjusted household disposable income,1167555.0
+2010,Canada,Minus: household actual final consumption,1166832.0
+2010,Canada,Plus: change in pension entitlements,38076.0
+2010,Canada,Equals: household net saving,38799.0
+2010,Newfoundland and Labrador,Household disposable income,13402.0
+2010,Newfoundland and Labrador,Plus: social transfers in kind,4559.0
+2010,Newfoundland and Labrador,Equals: adjusted household disposable income,17961.0
+2010,Newfoundland and Labrador,Adjusted household disposable income,17961.0
+2010,Newfoundland and Labrador,Minus: household actual final consumption,17805.0
+2010,Newfoundland and Labrador,Plus: change in pension entitlements,541.0
+2010,Newfoundland and Labrador,Equals: household net saving,697.0
+2010,Prince Edward Island,Household disposable income,3398.0
+2010,Prince Edward Island,Plus: social transfers in kind,1046.0
+2010,Prince Edward Island,Equals: adjusted household disposable income,4444.0
+2010,Prince Edward Island,Adjusted household disposable income,4444.0
+2010,Prince Edward Island,Minus: household actual final consumption,4636.0
+2010,Prince Edward Island,Plus: change in pension entitlements,181.0
+2010,Prince Edward Island,Equals: household net saving,-11.0
+2010,Nova Scotia,Household disposable income,23010.0
+2010,Nova Scotia,Plus: social transfers in kind,6861.0
+2010,Nova Scotia,Equals: adjusted household disposable income,29871.0
+2010,Nova Scotia,Adjusted household disposable income,29871.0
+2010,Nova Scotia,Minus: household actual final consumption,31948.0
+2010,Nova Scotia,Plus: change in pension entitlements,1556.0
+2010,Nova Scotia,Equals: household net saving,-521.0
+2010,New Brunswick,Household disposable income,18363.0
+2010,New Brunswick,Plus: social transfers in kind,5539.0
+2010,New Brunswick,Equals: adjusted household disposable income,23902.0
+2010,New Brunswick,Adjusted household disposable income,23902.0
+2010,New Brunswick,Minus: household actual final consumption,24385.0
+2010,New Brunswick,Plus: change in pension entitlements,896.0
+2010,New Brunswick,Equals: household net saving,413.0
+2010,Quebec,Household disposable income,188224.0
+2010,Quebec,Plus: social transfers in kind,53061.0
+2010,Quebec,Equals: adjusted household disposable income,241285.0
+2010,Quebec,Adjusted household disposable income,241285.0
+2010,Quebec,Minus: household actual final consumption,247378.0
+2010,Quebec,Plus: change in pension entitlements,11428.0
+2010,Quebec,Equals: household net saving,5335.0
+2010,Ontario,Household disposable income,365085.0
+2010,Ontario,Plus: social transfers in kind,95167.0
+2010,Ontario,Equals: adjusted household disposable income,460252.0
+2010,Ontario,Adjusted household disposable income,460252.0
+2010,Ontario,Minus: household actual final consumption,453352.0
+2010,Ontario,Plus: change in pension entitlements,13392.0
+2010,Ontario,Equals: household net saving,20292.0
+2010,Manitoba,Household disposable income,29855.0
+2010,Manitoba,Plus: social transfers in kind,10120.0
+2010,Manitoba,Equals: adjusted household disposable income,39975.0
+2010,Manitoba,Adjusted household disposable income,39975.0
+2010,Manitoba,Minus: household actual final consumption,41305.0
+2010,Manitoba,Plus: change in pension entitlements,1257.0
+2010,Manitoba,Equals: household net saving,-73.0
+2010,Saskatchewan,Household disposable income,29015.0
+2010,Saskatchewan,Plus: social transfers in kind,8381.0
+2010,Saskatchewan,Equals: adjusted household disposable income,37396.0
+2010,Saskatchewan,Adjusted household disposable income,37396.0
+2010,Saskatchewan,Minus: household actual final consumption,37230.0
+2010,Saskatchewan,Plus: change in pension entitlements,1070.0
+2010,Saskatchewan,Equals: household net saving,1236.0
+2010,Alberta,Household disposable income,125500.0
+2010,Alberta,Plus: social transfers in kind,28008.0
+2010,Alberta,Equals: adjusted household disposable income,153508.0
+2010,Alberta,Adjusted household disposable income,153508.0
+2010,Alberta,Minus: household actual final consumption,143405.0
+2010,Alberta,Plus: change in pension entitlements,3470.0
+2010,Alberta,Equals: household net saving,13573.0
+2010,British Columbia,Household disposable income,124166.0
+2010,British Columbia,Plus: social transfers in kind,28572.0
+2010,British Columbia,Equals: adjusted household disposable income,152738.0
+2010,British Columbia,Adjusted household disposable income,152738.0
+2010,British Columbia,Minus: household actual final consumption,160105.0
+2010,British Columbia,Plus: change in pension entitlements,4130.0
+2010,British Columbia,Equals: household net saving,-3237.0
+2010,Yukon,Household disposable income,1250.0
+2010,Yukon,Plus: social transfers in kind,548.0
+2010,Yukon,Equals: adjusted household disposable income,1798.0
+2010,Yukon,Adjusted household disposable income,1798.0
+2010,Yukon,Minus: household actual final consumption,1611.0
+2010,Yukon,Plus: change in pension entitlements,68.0
+2010,Yukon,Equals: household net saving,255.0
+2010,Northwest Territories,Household disposable income,1599.0
+2010,Northwest Territories,Plus: social transfers in kind,852.0
+2010,Northwest Territories,Equals: adjusted household disposable income,2451.0
+2010,Northwest Territories,Adjusted household disposable income,2451.0
+2010,Northwest Territories,Minus: household actual final consumption,2228.0
+2010,Northwest Territories,Plus: change in pension entitlements,51.0
+2010,Northwest Territories,Equals: household net saving,274.0
+2010,Nunavut,Household disposable income,906.0
+2010,Nunavut,Plus: social transfers in kind,667.0
+2010,Nunavut,Equals: adjusted household disposable income,1573.0
+2010,Nunavut,Adjusted household disposable income,1573.0
+2010,Nunavut,Minus: household actual final consumption,1300.0
+2010,Nunavut,Plus: change in pension entitlements,36.0
+2010,Nunavut,Equals: household net saving,309.0
+2010,Outside Canada,Household disposable income,403.0
+2010,Outside Canada,Plus: social transfers in kind,0.0
+2010,Outside Canada,Equals: adjusted household disposable income,403.0
+2010,Outside Canada,Adjusted household disposable income,403.0
+2010,Outside Canada,Minus: household actual final consumption,144.0
+2010,Outside Canada,Plus: change in pension entitlements,
+2010,Outside Canada,Equals: household net saving,259.0
+2011,Canada,Household disposable income,957957.0
+2011,Canada,Plus: social transfers in kind,255838.0
+2011,Canada,Equals: adjusted household disposable income,1213795.0
+2011,Canada,Adjusted household disposable income,1213795.0
+2011,Canada,Minus: household actual final consumption,1219749.0
+2011,Canada,Plus: change in pension entitlements,46937.0
+2011,Canada,Equals: household net saving,40983.0
+2011,Newfoundland and Labrador,Household disposable income,14319.0
+2011,Newfoundland and Labrador,Plus: social transfers in kind,4864.0
+2011,Newfoundland and Labrador,Equals: adjusted household disposable income,19183.0
+2011,Newfoundland and Labrador,Adjusted household disposable income,19183.0
+2011,Newfoundland and Labrador,Minus: household actual final consumption,18817.0
+2011,Newfoundland and Labrador,Plus: change in pension entitlements,693.0
+2011,Newfoundland and Labrador,Equals: household net saving,1059.0
+2011,Prince Edward Island,Household disposable income,3486.0
+2011,Prince Edward Island,Plus: social transfers in kind,1084.0
+2011,Prince Edward Island,Equals: adjusted household disposable income,4570.0
+2011,Prince Edward Island,Adjusted household disposable income,4570.0
+2011,Prince Edward Island,Minus: household actual final consumption,4848.0
+2011,Prince Edward Island,Plus: change in pension entitlements,206.0
+2011,Prince Edward Island,Equals: household net saving,-72.0
+2011,Nova Scotia,Household disposable income,23582.0
+2011,Nova Scotia,Plus: social transfers in kind,7286.0
+2011,Nova Scotia,Equals: adjusted household disposable income,30868.0
+2011,Nova Scotia,Adjusted household disposable income,30868.0
+2011,Nova Scotia,Minus: household actual final consumption,33509.0
+2011,Nova Scotia,Plus: change in pension entitlements,1734.0
+2011,Nova Scotia,Equals: household net saving,-907.0
+2011,New Brunswick,Household disposable income,18952.0
+2011,New Brunswick,Plus: social transfers in kind,5675.0
+2011,New Brunswick,Equals: adjusted household disposable income,24627.0
+2011,New Brunswick,Adjusted household disposable income,24627.0
+2011,New Brunswick,Minus: household actual final consumption,25417.0
+2011,New Brunswick,Plus: change in pension entitlements,1044.0
+2011,New Brunswick,Equals: household net saving,254.0
+2011,Quebec,Household disposable income,195334.0
+2011,Quebec,Plus: social transfers in kind,55726.0
+2011,Quebec,Equals: adjusted household disposable income,251060.0
+2011,Quebec,Adjusted household disposable income,251060.0
+2011,Quebec,Minus: household actual final consumption,257463.0
+2011,Quebec,Plus: change in pension entitlements,13682.0
+2011,Quebec,Equals: household net saving,7279.0
+2011,Ontario,Household disposable income,374267.0
+2011,Ontario,Plus: social transfers in kind,99703.0
+2011,Ontario,Equals: adjusted household disposable income,473970.0
+2011,Ontario,Adjusted household disposable income,473970.0
+2011,Ontario,Minus: household actual final consumption,472774.0
+2011,Ontario,Plus: change in pension entitlements,16897.0
+2011,Ontario,Equals: household net saving,18093.0
+2011,Manitoba,Household disposable income,31082.0
+2011,Manitoba,Plus: social transfers in kind,10674.0
+2011,Manitoba,Equals: adjusted household disposable income,41756.0
+2011,Manitoba,Adjusted household disposable income,41756.0
+2011,Manitoba,Minus: household actual final consumption,43237.0
+2011,Manitoba,Plus: change in pension entitlements,1534.0
+2011,Manitoba,Equals: household net saving,53.0
+2011,Saskatchewan,Household disposable income,31328.0
+2011,Saskatchewan,Plus: social transfers in kind,9058.0
+2011,Saskatchewan,Equals: adjusted household disposable income,40386.0
+2011,Saskatchewan,Adjusted household disposable income,40386.0
+2011,Saskatchewan,Minus: household actual final consumption,39381.0
+2011,Saskatchewan,Plus: change in pension entitlements,1373.0
+2011,Saskatchewan,Equals: household net saving,2378.0
+2011,Alberta,Household disposable income,132835.0
+2011,Alberta,Plus: social transfers in kind,29942.0
+2011,Alberta,Equals: adjusted household disposable income,162777.0
+2011,Alberta,Adjusted household disposable income,162777.0
+2011,Alberta,Minus: household actual final consumption,152109.0
+2011,Alberta,Plus: change in pension entitlements,4564.0
+2011,Alberta,Equals: household net saving,15232.0
+2011,British Columbia,Household disposable income,128434.0
+2011,British Columbia,Plus: social transfers in kind,29716.0
+2011,British Columbia,Equals: adjusted household disposable income,158150.0
+2011,British Columbia,Adjusted household disposable income,158150.0
+2011,British Columbia,Minus: household actual final consumption,166687.0
+2011,British Columbia,Plus: change in pension entitlements,5003.0
+2011,British Columbia,Equals: household net saving,-3534.0
+2011,Yukon,Household disposable income,1325.0
+2011,Yukon,Plus: social transfers in kind,566.0
+2011,Yukon,Equals: adjusted household disposable income,1891.0
+2011,Yukon,Adjusted household disposable income,1891.0
+2011,Yukon,Minus: household actual final consumption,1705.0
+2011,Yukon,Plus: change in pension entitlements,83.0
+2011,Yukon,Equals: household net saving,269.0
+2011,Northwest Territories,Household disposable income,1607.0
+2011,Northwest Territories,Plus: social transfers in kind,868.0
+2011,Northwest Territories,Equals: adjusted household disposable income,2475.0
+2011,Northwest Territories,Adjusted household disposable income,2475.0
+2011,Northwest Territories,Minus: household actual final consumption,2307.0
+2011,Northwest Territories,Plus: change in pension entitlements,76.0
+2011,Northwest Territories,Equals: household net saving,244.0
+2011,Nunavut,Household disposable income,953.0
+2011,Nunavut,Plus: social transfers in kind,676.0
+2011,Nunavut,Equals: adjusted household disposable income,1629.0
+2011,Nunavut,Adjusted household disposable income,1629.0
+2011,Nunavut,Minus: household actual final consumption,1348.0
+2011,Nunavut,Plus: change in pension entitlements,48.0
+2011,Nunavut,Equals: household net saving,329.0
+2011,Outside Canada,Household disposable income,453.0
+2011,Outside Canada,Plus: social transfers in kind,0.0
+2011,Outside Canada,Equals: adjusted household disposable income,453.0
+2011,Outside Canada,Adjusted household disposable income,453.0
+2011,Outside Canada,Minus: household actual final consumption,147.0
+2011,Outside Canada,Plus: change in pension entitlements,
+2011,Outside Canada,Equals: household net saving,306.0
+2012,Canada,Household disposable income,996857.0
+2012,Canada,Plus: social transfers in kind,262570.0
+2012,Canada,Equals: adjusted household disposable income,1259427.0
+2012,Canada,Adjusted household disposable income,1259427.0
+2012,Canada,Minus: household actual final consumption,1257616.0
+2012,Canada,Plus: change in pension entitlements,47452.0
+2012,Canada,Equals: household net saving,49263.0
+2012,Newfoundland and Labrador,Household disposable income,15287.0
+2012,Newfoundland and Labrador,Plus: social transfers in kind,4900.0
+2012,Newfoundland and Labrador,Equals: adjusted household disposable income,20187.0
+2012,Newfoundland and Labrador,Adjusted household disposable income,20187.0
+2012,Newfoundland and Labrador,Minus: household actual final consumption,19530.0
+2012,Newfoundland and Labrador,Plus: change in pension entitlements,696.0
+2012,Newfoundland and Labrador,Equals: household net saving,1353.0
+2012,Prince Edward Island,Household disposable income,3634.0
+2012,Prince Edward Island,Plus: social transfers in kind,1117.0
+2012,Prince Edward Island,Equals: adjusted household disposable income,4751.0
+2012,Prince Edward Island,Adjusted household disposable income,4751.0
+2012,Prince Edward Island,Minus: household actual final consumption,4986.0
+2012,Prince Edward Island,Plus: change in pension entitlements,203.0
+2012,Prince Edward Island,Equals: household net saving,-32.0
+2012,Nova Scotia,Household disposable income,24286.0
+2012,Nova Scotia,Plus: social transfers in kind,7508.0
+2012,Nova Scotia,Equals: adjusted household disposable income,31794.0
+2012,Nova Scotia,Adjusted household disposable income,31794.0
+2012,Nova Scotia,Minus: household actual final consumption,34417.0
+2012,Nova Scotia,Plus: change in pension entitlements,1683.0
+2012,Nova Scotia,Equals: household net saving,-940.0
+2012,New Brunswick,Household disposable income,19603.0
+2012,New Brunswick,Plus: social transfers in kind,5703.0
+2012,New Brunswick,Equals: adjusted household disposable income,25306.0
+2012,New Brunswick,Adjusted household disposable income,25306.0
+2012,New Brunswick,Minus: household actual final consumption,25916.0
+2012,New Brunswick,Plus: change in pension entitlements,1052.0
+2012,New Brunswick,Equals: household net saving,442.0
+2012,Quebec,Household disposable income,203381.0
+2012,Quebec,Plus: social transfers in kind,57325.0
+2012,Quebec,Equals: adjusted household disposable income,260706.0
+2012,Quebec,Adjusted household disposable income,260706.0
+2012,Quebec,Minus: household actual final consumption,264469.0
+2012,Quebec,Plus: change in pension entitlements,14015.0
+2012,Quebec,Equals: household net saving,10252.0
+2012,Ontario,Household disposable income,381884.0
+2012,Ontario,Plus: social transfers in kind,101676.0
+2012,Ontario,Equals: adjusted household disposable income,483560.0
+2012,Ontario,Adjusted household disposable income,483560.0
+2012,Ontario,Minus: household actual final consumption,484603.0
+2012,Ontario,Plus: change in pension entitlements,16971.0
+2012,Ontario,Equals: household net saving,15928.0
+2012,Manitoba,Household disposable income,32763.0
+2012,Manitoba,Plus: social transfers in kind,11191.0
+2012,Manitoba,Equals: adjusted household disposable income,43954.0
+2012,Manitoba,Adjusted household disposable income,43954.0
+2012,Manitoba,Minus: household actual final consumption,44896.0
+2012,Manitoba,Plus: change in pension entitlements,1566.0
+2012,Manitoba,Equals: household net saving,624.0
+2012,Saskatchewan,Household disposable income,33036.0
+2012,Saskatchewan,Plus: social transfers in kind,9170.0
+2012,Saskatchewan,Equals: adjusted household disposable income,42206.0
+2012,Saskatchewan,Adjusted household disposable income,42206.0
+2012,Saskatchewan,Minus: household actual final consumption,41081.0
+2012,Saskatchewan,Plus: change in pension entitlements,1426.0
+2012,Saskatchewan,Equals: household net saving,2551.0
+2012,Alberta,Household disposable income,144757.0
+2012,Alberta,Plus: social transfers in kind,31128.0
+2012,Alberta,Equals: adjusted household disposable income,175885.0
+2012,Alberta,Adjusted household disposable income,175885.0
+2012,Alberta,Minus: household actual final consumption,159895.0
+2012,Alberta,Plus: change in pension entitlements,4779.0
+2012,Alberta,Equals: household net saving,20769.0
+2012,British Columbia,Household disposable income,133728.0
+2012,British Columbia,Plus: social transfers in kind,30665.0
+2012,British Columbia,Equals: adjusted household disposable income,164393.0
+2012,British Columbia,Adjusted household disposable income,164393.0
+2012,British Columbia,Minus: household actual final consumption,172087.0
+2012,British Columbia,Plus: change in pension entitlements,4856.0
+2012,British Columbia,Equals: household net saving,-2838.0
+2012,Yukon,Household disposable income,1380.0
+2012,Yukon,Plus: social transfers in kind,573.0
+2012,Yukon,Equals: adjusted household disposable income,1953.0
+2012,Yukon,Adjusted household disposable income,1953.0
+2012,Yukon,Minus: household actual final consumption,1782.0
+2012,Yukon,Plus: change in pension entitlements,84.0
+2012,Yukon,Equals: household net saving,255.0
+2012,Northwest Territories,Household disposable income,1617.0
+2012,Northwest Territories,Plus: social transfers in kind,882.0
+2012,Northwest Territories,Equals: adjusted household disposable income,2499.0
+2012,Northwest Territories,Adjusted household disposable income,2499.0
+2012,Northwest Territories,Minus: household actual final consumption,2372.0
+2012,Northwest Territories,Plus: change in pension entitlements,71.0
+2012,Northwest Territories,Equals: household net saving,198.0
+2012,Nunavut,Household disposable income,1006.0
+2012,Nunavut,Plus: social transfers in kind,732.0
+2012,Nunavut,Equals: adjusted household disposable income,1738.0
+2012,Nunavut,Adjusted household disposable income,1738.0
+2012,Nunavut,Minus: household actual final consumption,1436.0
+2012,Nunavut,Plus: change in pension entitlements,50.0
+2012,Nunavut,Equals: household net saving,352.0
+2012,Outside Canada,Household disposable income,494.0
+2012,Outside Canada,Plus: social transfers in kind,0.0
+2012,Outside Canada,Equals: adjusted household disposable income,494.0
+2012,Outside Canada,Adjusted household disposable income,494.0
+2012,Outside Canada,Minus: household actual final consumption,146.0
+2012,Outside Canada,Plus: change in pension entitlements,
+2012,Outside Canada,Equals: household net saving,348.0
+2013,Canada,Household disposable income,1042078.0
+2013,Canada,Plus: social transfers in kind,269324.0
+2013,Canada,Equals: adjusted household disposable income,1311402.0
+2013,Canada,Adjusted household disposable income,1311402.0
+2013,Canada,Minus: household actual final consumption,1304128.0
+2013,Canada,Plus: change in pension entitlements,44876.0
+2013,Canada,Equals: household net saving,52150.0
+2013,Newfoundland and Labrador,Household disposable income,16025.0
+2013,Newfoundland and Labrador,Plus: social transfers in kind,4889.0
+2013,Newfoundland and Labrador,Equals: adjusted household disposable income,20914.0
+2013,Newfoundland and Labrador,Adjusted household disposable income,20914.0
+2013,Newfoundland and Labrador,Minus: household actual final consumption,20191.0
+2013,Newfoundland and Labrador,Plus: change in pension entitlements,611.0
+2013,Newfoundland and Labrador,Equals: household net saving,1334.0
+2013,Prince Edward Island,Household disposable income,3689.0
+2013,Prince Edward Island,Plus: social transfers in kind,1152.0
+2013,Prince Edward Island,Equals: adjusted household disposable income,4841.0
+2013,Prince Edward Island,Adjusted household disposable income,4841.0
+2013,Prince Edward Island,Minus: household actual final consumption,5139.0
+2013,Prince Edward Island,Plus: change in pension entitlements,197.0
+2013,Prince Edward Island,Equals: household net saving,-101.0
+2013,Nova Scotia,Household disposable income,25212.0
+2013,Nova Scotia,Plus: social transfers in kind,7801.0
+2013,Nova Scotia,Equals: adjusted household disposable income,33013.0
+2013,Nova Scotia,Adjusted household disposable income,33013.0
+2013,Nova Scotia,Minus: household actual final consumption,35563.0
+2013,Nova Scotia,Plus: change in pension entitlements,1620.0
+2013,Nova Scotia,Equals: household net saving,-930.0
+2013,New Brunswick,Household disposable income,20114.0
+2013,New Brunswick,Plus: social transfers in kind,5803.0
+2013,New Brunswick,Equals: adjusted household disposable income,25917.0
+2013,New Brunswick,Adjusted household disposable income,25917.0
+2013,New Brunswick,Minus: household actual final consumption,26619.0
+2013,New Brunswick,Plus: change in pension entitlements,985.0
+2013,New Brunswick,Equals: household net saving,283.0
+2013,Quebec,Household disposable income,209406.0
+2013,Quebec,Plus: social transfers in kind,59145.0
+2013,Quebec,Equals: adjusted household disposable income,268551.0
+2013,Quebec,Adjusted household disposable income,268551.0
+2013,Quebec,Minus: household actual final consumption,273190.0
+2013,Quebec,Plus: change in pension entitlements,13502.0
+2013,Quebec,Equals: household net saving,8863.0
+2013,Ontario,Household disposable income,397354.0
+2013,Ontario,Plus: social transfers in kind,104042.0
+2013,Ontario,Equals: adjusted household disposable income,501396.0
+2013,Ontario,Adjusted household disposable income,501396.0
+2013,Ontario,Minus: household actual final consumption,500776.0
+2013,Ontario,Plus: change in pension entitlements,16021.0
+2013,Ontario,Equals: household net saving,16641.0
+2013,Manitoba,Household disposable income,34249.0
+2013,Manitoba,Plus: social transfers in kind,11694.0
+2013,Manitoba,Equals: adjusted household disposable income,45943.0
+2013,Manitoba,Adjusted household disposable income,45943.0
+2013,Manitoba,Minus: household actual final consumption,46974.0
+2013,Manitoba,Plus: change in pension entitlements,1457.0
+2013,Manitoba,Equals: household net saving,426.0
+2013,Saskatchewan,Household disposable income,35524.0
+2013,Saskatchewan,Plus: social transfers in kind,9306.0
+2013,Saskatchewan,Equals: adjusted household disposable income,44830.0
+2013,Saskatchewan,Adjusted household disposable income,44830.0
+2013,Saskatchewan,Minus: household actual final consumption,43025.0
+2013,Saskatchewan,Plus: change in pension entitlements,1275.0
+2013,Saskatchewan,Equals: household net saving,3080.0
+2013,Alberta,Household disposable income,154483.0
+2013,Alberta,Plus: social transfers in kind,31603.0
+2013,Alberta,Equals: adjusted household disposable income,186086.0
+2013,Alberta,Adjusted household disposable income,186086.0
+2013,Alberta,Minus: household actual final consumption,168908.0
+2013,Alberta,Plus: change in pension entitlements,4402.0
+2013,Alberta,Equals: household net saving,21580.0
+2013,British Columbia,Household disposable income,141356.0
+2013,British Columbia,Plus: social transfers in kind,31591.0
+2013,British Columbia,Equals: adjusted household disposable income,172947.0
+2013,British Columbia,Adjusted household disposable income,172947.0
+2013,British Columbia,Minus: household actual final consumption,177784.0
+2013,British Columbia,Plus: change in pension entitlements,4604.0
+2013,British Columbia,Equals: household net saving,-233.0
+2013,Yukon,Household disposable income,1424.0
+2013,Yukon,Plus: social transfers in kind,610.0
+2013,Yukon,Equals: adjusted household disposable income,2034.0
+2013,Yukon,Adjusted household disposable income,2034.0
+2013,Yukon,Minus: household actual final consumption,1842.0
+2013,Yukon,Plus: change in pension entitlements,62.0
+2013,Yukon,Equals: household net saving,254.0
+2013,Northwest Territories,Household disposable income,1725.0
+2013,Northwest Territories,Plus: social transfers in kind,922.0
+2013,Northwest Territories,Equals: adjusted household disposable income,2647.0
+2013,Northwest Territories,Adjusted household disposable income,2647.0
+2013,Northwest Territories,Minus: household actual final consumption,2460.0
+2013,Northwest Territories,Plus: change in pension entitlements,91.0
+2013,Northwest Territories,Equals: household net saving,278.0
+2013,Nunavut,Household disposable income,1027.0
+2013,Nunavut,Plus: social transfers in kind,766.0
+2013,Nunavut,Equals: adjusted household disposable income,1793.0
+2013,Nunavut,Adjusted household disposable income,1793.0
+2013,Nunavut,Minus: household actual final consumption,1497.0
+2013,Nunavut,Plus: change in pension entitlements,49.0
+2013,Nunavut,Equals: household net saving,345.0
+2013,Outside Canada,Household disposable income,489.0
+2013,Outside Canada,Plus: social transfers in kind,0.0
+2013,Outside Canada,Equals: adjusted household disposable income,489.0
+2013,Outside Canada,Adjusted household disposable income,489.0
+2013,Outside Canada,Minus: household actual final consumption,160.0
+2013,Outside Canada,Plus: change in pension entitlements,
+2013,Outside Canada,Equals: household net saving,329.0
+2014,Canada,Household disposable income,1076947.0
+2014,Canada,Plus: social transfers in kind,277382.0
+2014,Canada,Equals: adjusted household disposable income,1354329.0
+2014,Canada,Adjusted household disposable income,1354329.0
+2014,Canada,Minus: household actual final consumption,1360438.0
+2014,Canada,Plus: change in pension entitlements,46439.0
+2014,Canada,Equals: household net saving,40330.0
+2014,Newfoundland and Labrador,Household disposable income,16543.0
+2014,Newfoundland and Labrador,Plus: social transfers in kind,4930.0
+2014,Newfoundland and Labrador,Equals: adjusted household disposable income,21473.0
+2014,Newfoundland and Labrador,Adjusted household disposable income,21473.0
+2014,Newfoundland and Labrador,Minus: household actual final consumption,20854.0
+2014,Newfoundland and Labrador,Plus: change in pension entitlements,540.0
+2014,Newfoundland and Labrador,Equals: household net saving,1159.0
+2014,Prince Edward Island,Household disposable income,3822.0
+2014,Prince Edward Island,Plus: social transfers in kind,1132.0
+2014,Prince Edward Island,Equals: adjusted household disposable income,4954.0
+2014,Prince Edward Island,Adjusted household disposable income,4954.0
+2014,Prince Edward Island,Minus: household actual final consumption,5238.0
+2014,Prince Edward Island,Plus: change in pension entitlements,186.0
+2014,Prince Edward Island,Equals: household net saving,-98.0
+2014,Nova Scotia,Household disposable income,25783.0
+2014,Nova Scotia,Plus: social transfers in kind,8022.0
+2014,Nova Scotia,Equals: adjusted household disposable income,33805.0
+2014,Nova Scotia,Adjusted household disposable income,33805.0
+2014,Nova Scotia,Minus: household actual final consumption,36584.0
+2014,Nova Scotia,Plus: change in pension entitlements,1610.0
+2014,Nova Scotia,Equals: household net saving,-1169.0
+2014,New Brunswick,Household disposable income,20642.0
+2014,New Brunswick,Plus: social transfers in kind,5881.0
+2014,New Brunswick,Equals: adjusted household disposable income,26523.0
+2014,New Brunswick,Adjusted household disposable income,26523.0
+2014,New Brunswick,Minus: household actual final consumption,27419.0
+2014,New Brunswick,Plus: change in pension entitlements,998.0
+2014,New Brunswick,Equals: household net saving,102.0
+2014,Quebec,Household disposable income,215319.0
+2014,Quebec,Plus: social transfers in kind,61412.0
+2014,Quebec,Equals: adjusted household disposable income,276731.0
+2014,Quebec,Adjusted household disposable income,276731.0
+2014,Quebec,Minus: household actual final consumption,282403.0
+2014,Quebec,Plus: change in pension entitlements,14614.0
+2014,Quebec,Equals: household net saving,8942.0
+2014,Ontario,Household disposable income,408893.0
+2014,Ontario,Plus: social transfers in kind,106797.0
+2014,Ontario,Equals: adjusted household disposable income,515690.0
+2014,Ontario,Adjusted household disposable income,515690.0
+2014,Ontario,Minus: household actual final consumption,522896.0
+2014,Ontario,Plus: change in pension entitlements,16074.0
+2014,Ontario,Equals: household net saving,8868.0
+2014,Manitoba,Household disposable income,35172.0
+2014,Manitoba,Plus: social transfers in kind,11901.0
+2014,Manitoba,Equals: adjusted household disposable income,47073.0
+2014,Manitoba,Adjusted household disposable income,47073.0
+2014,Manitoba,Minus: household actual final consumption,48786.0
+2014,Manitoba,Plus: change in pension entitlements,1517.0
+2014,Manitoba,Equals: household net saving,-196.0
+2014,Saskatchewan,Household disposable income,35825.0
+2014,Saskatchewan,Plus: social transfers in kind,9639.0
+2014,Saskatchewan,Equals: adjusted household disposable income,45464.0
+2014,Saskatchewan,Adjusted household disposable income,45464.0
+2014,Saskatchewan,Minus: household actual final consumption,44961.0
+2014,Saskatchewan,Plus: change in pension entitlements,1359.0
+2014,Saskatchewan,Equals: household net saving,1862.0
+2014,Alberta,Household disposable income,163630.0
+2014,Alberta,Plus: social transfers in kind,33431.0
+2014,Alberta,Equals: adjusted household disposable income,197061.0
+2014,Alberta,Adjusted household disposable income,197061.0
+2014,Alberta,Minus: household actual final consumption,179195.0
+2014,Alberta,Plus: change in pension entitlements,5004.0
+2014,Alberta,Equals: household net saving,22870.0
+2014,British Columbia,Household disposable income,146503.0
+2014,British Columbia,Plus: social transfers in kind,31826.0
+2014,British Columbia,Equals: adjusted household disposable income,178329.0
+2014,British Columbia,Adjusted household disposable income,178329.0
+2014,British Columbia,Minus: household actual final consumption,185918.0
+2014,British Columbia,Plus: change in pension entitlements,4328.0
+2014,British Columbia,Equals: household net saving,-3261.0
+2014,Yukon,Household disposable income,1485.0
+2014,Yukon,Plus: social transfers in kind,635.0
+2014,Yukon,Equals: adjusted household disposable income,2120.0
+2014,Yukon,Adjusted household disposable income,2120.0
+2014,Yukon,Minus: household actual final consumption,1907.0
+2014,Yukon,Plus: change in pension entitlements,58.0
+2014,Yukon,Equals: household net saving,271.0
+2014,Northwest Territories,Household disposable income,1765.0
+2014,Northwest Territories,Plus: social transfers in kind,980.0
+2014,Northwest Territories,Equals: adjusted household disposable income,2745.0
+2014,Northwest Territories,Adjusted household disposable income,2745.0
+2014,Northwest Territories,Minus: household actual final consumption,2567.0
+2014,Northwest Territories,Plus: change in pension entitlements,93.0
+2014,Northwest Territories,Equals: household net saving,271.0
+2014,Nunavut,Household disposable income,1072.0
+2014,Nunavut,Plus: social transfers in kind,796.0
+2014,Nunavut,Equals: adjusted household disposable income,1868.0
+2014,Nunavut,Adjusted household disposable income,1868.0
+2014,Nunavut,Minus: household actual final consumption,1548.0
+2014,Nunavut,Plus: change in pension entitlements,58.0
+2014,Nunavut,Equals: household net saving,378.0
+2014,Outside Canada,Household disposable income,493.0
+2014,Outside Canada,Plus: social transfers in kind,0.0
+2014,Outside Canada,Equals: adjusted household disposable income,493.0
+2014,Outside Canada,Adjusted household disposable income,493.0
+2014,Outside Canada,Minus: household actual final consumption,162.0
+2014,Outside Canada,Plus: change in pension entitlements,
+2014,Outside Canada,Equals: household net saving,331.0
+2015,Canada,Household disposable income,1125270.0
+2015,Canada,Plus: social transfers in kind,286904.0
+2015,Canada,Equals: adjusted household disposable income,1412174.0
+2015,Canada,Adjusted household disposable income,1412174.0
+2015,Canada,Minus: household actual final consumption,1405393.0
+2015,Canada,Plus: change in pension entitlements,43260.0
+2015,Canada,Equals: household net saving,50041.0
+2015,Newfoundland and Labrador,Household disposable income,16961.0
+2015,Newfoundland and Labrador,Plus: social transfers in kind,5005.0
+2015,Newfoundland and Labrador,Equals: adjusted household disposable income,21966.0
+2015,Newfoundland and Labrador,Adjusted household disposable income,21966.0
+2015,Newfoundland and Labrador,Minus: household actual final consumption,21251.0
+2015,Newfoundland and Labrador,Plus: change in pension entitlements,561.0
+2015,Newfoundland and Labrador,Equals: household net saving,1276.0
+2015,Prince Edward Island,Household disposable income,3940.0
+2015,Prince Edward Island,Plus: social transfers in kind,1143.0
+2015,Prince Edward Island,Equals: adjusted household disposable income,5083.0
+2015,Prince Edward Island,Adjusted household disposable income,5083.0
+2015,Prince Edward Island,Minus: household actual final consumption,5341.0
+2015,Prince Edward Island,Plus: change in pension entitlements,163.0
+2015,Prince Edward Island,Equals: household net saving,-95.0
+2015,Nova Scotia,Household disposable income,26473.0
+2015,Nova Scotia,Plus: social transfers in kind,8123.0
+2015,Nova Scotia,Equals: adjusted household disposable income,34596.0
+2015,Nova Scotia,Adjusted household disposable income,34596.0
+2015,Nova Scotia,Minus: household actual final consumption,36937.0
+2015,Nova Scotia,Plus: change in pension entitlements,1541.0
+2015,Nova Scotia,Equals: household net saving,-800.0
+2015,New Brunswick,Household disposable income,21092.0
+2015,New Brunswick,Plus: social transfers in kind,5915.0
+2015,New Brunswick,Equals: adjusted household disposable income,27007.0
+2015,New Brunswick,Adjusted household disposable income,27007.0
+2015,New Brunswick,Minus: household actual final consumption,27849.0
+2015,New Brunswick,Plus: change in pension entitlements,933.0
+2015,New Brunswick,Equals: household net saving,91.0
+2015,Quebec,Household disposable income,222506.0
+2015,Quebec,Plus: social transfers in kind,62325.0
+2015,Quebec,Equals: adjusted household disposable income,284831.0
+2015,Quebec,Adjusted household disposable income,284831.0
+2015,Quebec,Minus: household actual final consumption,288372.0
+2015,Quebec,Plus: change in pension entitlements,14584.0
+2015,Quebec,Equals: household net saving,11043.0
+2015,Ontario,Household disposable income,428866.0
+2015,Ontario,Plus: social transfers in kind,111148.0
+2015,Ontario,Equals: adjusted household disposable income,540014.0
+2015,Ontario,Adjusted household disposable income,540014.0
+2015,Ontario,Minus: household actual final consumption,544764.0
+2015,Ontario,Plus: change in pension entitlements,13904.0
+2015,Ontario,Equals: household net saving,9154.0
+2015,Manitoba,Household disposable income,37104.0
+2015,Manitoba,Plus: social transfers in kind,12352.0
+2015,Manitoba,Equals: adjusted household disposable income,49456.0
+2015,Manitoba,Adjusted household disposable income,49456.0
+2015,Manitoba,Minus: household actual final consumption,50186.0
+2015,Manitoba,Plus: change in pension entitlements,1567.0
+2015,Manitoba,Equals: household net saving,837.0
+2015,Saskatchewan,Household disposable income,37812.0
+2015,Saskatchewan,Plus: social transfers in kind,10306.0
+2015,Saskatchewan,Equals: adjusted household disposable income,48118.0
+2015,Saskatchewan,Adjusted household disposable income,48118.0
+2015,Saskatchewan,Minus: household actual final consumption,46231.0
+2015,Saskatchewan,Plus: change in pension entitlements,1361.0
+2015,Saskatchewan,Equals: household net saving,3248.0
+2015,Alberta,Household disposable income,171509.0
+2015,Alberta,Plus: social transfers in kind,34935.0
+2015,Alberta,Equals: adjusted household disposable income,206444.0
+2015,Alberta,Adjusted household disposable income,206444.0
+2015,Alberta,Minus: household actual final consumption,182757.0
+2015,Alberta,Plus: change in pension entitlements,4169.0
+2015,Alberta,Equals: household net saving,27856.0
+2015,British Columbia,Household disposable income,154039.0
+2015,British Columbia,Plus: social transfers in kind,33100.0
+2015,British Columbia,Equals: adjusted household disposable income,187139.0
+2015,British Columbia,Adjusted household disposable income,187139.0
+2015,British Columbia,Minus: household actual final consumption,195268.0
+2015,British Columbia,Plus: change in pension entitlements,4261.0
+2015,British Columbia,Equals: household net saving,-3868.0
+2015,Yukon,Household disposable income,1559.0
+2015,Yukon,Plus: social transfers in kind,680.0
+2015,Yukon,Equals: adjusted household disposable income,2239.0
+2015,Yukon,Adjusted household disposable income,2239.0
+2015,Yukon,Minus: household actual final consumption,1987.0
+2015,Yukon,Plus: change in pension entitlements,53.0
+2015,Yukon,Equals: household net saving,305.0
+2015,Northwest Territories,Household disposable income,1831.0
+2015,Northwest Territories,Plus: social transfers in kind,1014.0
+2015,Northwest Territories,Equals: adjusted household disposable income,2845.0
+2015,Northwest Territories,Adjusted household disposable income,2845.0
+2015,Northwest Territories,Minus: household actual final consumption,2645.0
+2015,Northwest Territories,Plus: change in pension entitlements,96.0
+2015,Northwest Territories,Equals: household net saving,296.0
+2015,Nunavut,Household disposable income,1107.0
+2015,Nunavut,Plus: social transfers in kind,858.0
+2015,Nunavut,Equals: adjusted household disposable income,1965.0
+2015,Nunavut,Adjusted household disposable income,1965.0
+2015,Nunavut,Minus: household actual final consumption,1643.0
+2015,Nunavut,Plus: change in pension entitlements,67.0
+2015,Nunavut,Equals: household net saving,389.0
+2015,Outside Canada,Household disposable income,470.0
+2015,Outside Canada,Plus: social transfers in kind,0.0
+2015,Outside Canada,Equals: adjusted household disposable income,470.0
+2015,Outside Canada,Adjusted household disposable income,470.0
+2015,Outside Canada,Minus: household actual final consumption,162.0
+2015,Outside Canada,Plus: change in pension entitlements,
+2015,Outside Canada,Equals: household net saving,308.0
+2016,Canada,Household disposable income,1128336.0
+2016,Canada,Plus: social transfers in kind,294350.0
+2016,Canada,Equals: adjusted household disposable income,1422686.0
+2016,Canada,Adjusted household disposable income,1422686.0
+2016,Canada,Minus: household actual final consumption,1447606.0
+2016,Canada,Plus: change in pension entitlements,43092.0
+2016,Canada,Equals: household net saving,18172.0
+2016,Newfoundland and Labrador,Household disposable income,16707.0
+2016,Newfoundland and Labrador,Plus: social transfers in kind,5012.0
+2016,Newfoundland and Labrador,Equals: adjusted household disposable income,21719.0
+2016,Newfoundland and Labrador,Adjusted household disposable income,21719.0
+2016,Newfoundland and Labrador,Minus: household actual final consumption,21612.0
+2016,Newfoundland and Labrador,Plus: change in pension entitlements,621.0
+2016,Newfoundland and Labrador,Equals: household net saving,728.0
+2016,Prince Edward Island,Household disposable income,4130.0
+2016,Prince Edward Island,Plus: social transfers in kind,1161.0
+2016,Prince Edward Island,Equals: adjusted household disposable income,5291.0
+2016,Prince Edward Island,Adjusted household disposable income,5291.0
+2016,Prince Edward Island,Minus: household actual final consumption,5498.0
+2016,Prince Edward Island,Plus: change in pension entitlements,147.0
+2016,Prince Edward Island,Equals: household net saving,-60.0
+2016,Nova Scotia,Household disposable income,26648.0
+2016,Nova Scotia,Plus: social transfers in kind,8189.0
+2016,Nova Scotia,Equals: adjusted household disposable income,34837.0
+2016,Nova Scotia,Adjusted household disposable income,34837.0
+2016,Nova Scotia,Minus: household actual final consumption,37512.0
+2016,Nova Scotia,Plus: change in pension entitlements,1420.0
+2016,Nova Scotia,Equals: household net saving,-1255.0
+2016,New Brunswick,Household disposable income,21732.0
+2016,New Brunswick,Plus: social transfers in kind,6108.0
+2016,New Brunswick,Equals: adjusted household disposable income,27840.0
+2016,New Brunswick,Adjusted household disposable income,27840.0
+2016,New Brunswick,Minus: household actual final consumption,28581.0
+2016,New Brunswick,Plus: change in pension entitlements,893.0
+2016,New Brunswick,Equals: household net saving,152.0
+2016,Quebec,Household disposable income,228482.0
+2016,Quebec,Plus: social transfers in kind,64297.0
+2016,Quebec,Equals: adjusted household disposable income,292779.0
+2016,Quebec,Adjusted household disposable income,292779.0
+2016,Quebec,Minus: household actual final consumption,297509.0
+2016,Quebec,Plus: change in pension entitlements,16181.0
+2016,Quebec,Equals: household net saving,11451.0
+2016,Ontario,Household disposable income,438900.0
+2016,Ontario,Plus: social transfers in kind,113235.0
+2016,Ontario,Equals: adjusted household disposable income,552135.0
+2016,Ontario,Adjusted household disposable income,552135.0
+2016,Ontario,Minus: household actual final consumption,564039.0
+2016,Ontario,Plus: change in pension entitlements,13410.0
+2016,Ontario,Equals: household net saving,1506.0
+2016,Manitoba,Household disposable income,37463.0
+2016,Manitoba,Plus: social transfers in kind,12884.0
+2016,Manitoba,Equals: adjusted household disposable income,50347.0
+2016,Manitoba,Adjusted household disposable income,50347.0
+2016,Manitoba,Minus: household actual final consumption,51683.0
+2016,Manitoba,Plus: change in pension entitlements,1364.0
+2016,Manitoba,Equals: household net saving,28.0
+2016,Saskatchewan,Household disposable income,36976.0
+2016,Saskatchewan,Plus: social transfers in kind,10466.0
+2016,Saskatchewan,Equals: adjusted household disposable income,47442.0
+2016,Saskatchewan,Adjusted household disposable income,47442.0
+2016,Saskatchewan,Minus: household actual final consumption,46932.0
+2016,Saskatchewan,Plus: change in pension entitlements,1138.0
+2016,Saskatchewan,Equals: household net saving,1648.0
+2016,Alberta,Household disposable income,151761.0
+2016,Alberta,Plus: social transfers in kind,36447.0
+2016,Alberta,Equals: adjusted household disposable income,188208.0
+2016,Alberta,Adjusted household disposable income,188208.0
+2016,Alberta,Minus: household actual final consumption,184108.0
+2016,Alberta,Plus: change in pension entitlements,3815.0
+2016,Alberta,Equals: household net saving,7915.0
+2016,British Columbia,Household disposable income,160398.0
+2016,British Columbia,Plus: social transfers in kind,33863.0
+2016,British Columbia,Equals: adjusted household disposable income,194261.0
+2016,British Columbia,Adjusted household disposable income,194261.0
+2016,British Columbia,Minus: household actual final consumption,203475.0
+2016,British Columbia,Plus: change in pension entitlements,3940.0
+2016,British Columbia,Equals: household net saving,-5274.0
+2016,Yukon,Household disposable income,1620.0
+2016,Yukon,Plus: social transfers in kind,711.0
+2016,Yukon,Equals: adjusted household disposable income,2331.0
+2016,Yukon,Adjusted household disposable income,2331.0
+2016,Yukon,Minus: household actual final consumption,2063.0
+2016,Yukon,Plus: change in pension entitlements,45.0
+2016,Yukon,Equals: household net saving,313.0
+2016,Northwest Territories,Household disposable income,1873.0
+2016,Northwest Territories,Plus: social transfers in kind,1050.0
+2016,Northwest Territories,Equals: adjusted household disposable income,2923.0
+2016,Northwest Territories,Adjusted household disposable income,2923.0
+2016,Northwest Territories,Minus: household actual final consumption,2702.0
+2016,Northwest Territories,Plus: change in pension entitlements,61.0
+2016,Northwest Territories,Equals: household net saving,282.0
+2016,Nunavut,Household disposable income,1158.0
+2016,Nunavut,Plus: social transfers in kind,927.0
+2016,Nunavut,Equals: adjusted household disposable income,2085.0
+2016,Nunavut,Adjusted household disposable income,2085.0
+2016,Nunavut,Minus: household actual final consumption,1731.0
+2016,Nunavut,Plus: change in pension entitlements,57.0
+2016,Nunavut,Equals: household net saving,411.0
+2016,Outside Canada,Household disposable income,489.0
+2016,Outside Canada,Plus: social transfers in kind,0.0
+2016,Outside Canada,Equals: adjusted household disposable income,489.0
+2016,Outside Canada,Adjusted household disposable income,489.0
+2016,Outside Canada,Minus: household actual final consumption,161.0
+2016,Outside Canada,Plus: change in pension entitlements,
+2016,Outside Canada,Equals: household net saving,328.0
+2017,Canada,Household disposable income,1180255.0
+2017,Canada,Plus: social transfers in kind,302354.0
+2017,Canada,Equals: adjusted household disposable income,1482609.0
+2017,Canada,Adjusted household disposable income,1482609.0
+2017,Canada,Minus: household actual final consumption,1510786.0
+2017,Canada,Plus: change in pension entitlements,46275.0
+2017,Canada,Equals: household net saving,18098.0
+2017,Newfoundland and Labrador,Household disposable income,16912.0
+2017,Newfoundland and Labrador,Plus: social transfers in kind,5066.0
+2017,Newfoundland and Labrador,Equals: adjusted household disposable income,21978.0
+2017,Newfoundland and Labrador,Adjusted household disposable income,21978.0
+2017,Newfoundland and Labrador,Minus: household actual final consumption,22044.0
+2017,Newfoundland and Labrador,Plus: change in pension entitlements,688.0
+2017,Newfoundland and Labrador,Equals: household net saving,622.0
+2017,Prince Edward Island,Household disposable income,4366.0
+2017,Prince Edward Island,Plus: social transfers in kind,1186.0
+2017,Prince Edward Island,Equals: adjusted household disposable income,5552.0
+2017,Prince Edward Island,Adjusted household disposable income,5552.0
+2017,Prince Edward Island,Minus: household actual final consumption,5692.0
+2017,Prince Edward Island,Plus: change in pension entitlements,153.0
+2017,Prince Edward Island,Equals: household net saving,13.0
+2017,Nova Scotia,Household disposable income,27549.0
+2017,Nova Scotia,Plus: social transfers in kind,8451.0
+2017,Nova Scotia,Equals: adjusted household disposable income,36000.0
+2017,Nova Scotia,Adjusted household disposable income,36000.0
+2017,Nova Scotia,Minus: household actual final consumption,38934.0
+2017,Nova Scotia,Plus: change in pension entitlements,1470.0
+2017,Nova Scotia,Equals: household net saving,-1464.0
+2017,New Brunswick,Household disposable income,22439.0
+2017,New Brunswick,Plus: social transfers in kind,6341.0
+2017,New Brunswick,Equals: adjusted household disposable income,28780.0
+2017,New Brunswick,Adjusted household disposable income,28780.0
+2017,New Brunswick,Minus: household actual final consumption,29715.0
+2017,New Brunswick,Plus: change in pension entitlements,940.0
+2017,New Brunswick,Equals: household net saving,5.0
+2017,Quebec,Household disposable income,238849.0
+2017,Quebec,Plus: social transfers in kind,65619.0
+2017,Quebec,Equals: adjusted household disposable income,304468.0
+2017,Quebec,Adjusted household disposable income,304468.0
+2017,Quebec,Minus: household actual final consumption,308672.0
+2017,Quebec,Plus: change in pension entitlements,17401.0
+2017,Quebec,Equals: household net saving,13197.0
+2017,Ontario,Household disposable income,459368.0
+2017,Ontario,Plus: social transfers in kind,116222.0
+2017,Ontario,Equals: adjusted household disposable income,575590.0
+2017,Ontario,Adjusted household disposable income,575590.0
+2017,Ontario,Minus: household actual final consumption,589911.0
+2017,Ontario,Plus: change in pension entitlements,14636.0
+2017,Ontario,Equals: household net saving,315.0
+2017,Manitoba,Household disposable income,39532.0
+2017,Manitoba,Plus: social transfers in kind,13392.0
+2017,Manitoba,Equals: adjusted household disposable income,52924.0
+2017,Manitoba,Adjusted household disposable income,52924.0
+2017,Manitoba,Minus: household actual final consumption,53985.0
+2017,Manitoba,Plus: change in pension entitlements,1495.0
+2017,Manitoba,Equals: household net saving,434.0
+2017,Saskatchewan,Household disposable income,37945.0
+2017,Saskatchewan,Plus: social transfers in kind,10858.0
+2017,Saskatchewan,Equals: adjusted household disposable income,48803.0
+2017,Saskatchewan,Adjusted household disposable income,48803.0
+2017,Saskatchewan,Minus: household actual final consumption,48529.0
+2017,Saskatchewan,Plus: change in pension entitlements,1193.0
+2017,Saskatchewan,Equals: household net saving,1467.0
+2017,Alberta,Household disposable income,155774.0
+2017,Alberta,Plus: social transfers in kind,37337.0
+2017,Alberta,Equals: adjusted household disposable income,193111.0
+2017,Alberta,Adjusted household disposable income,193111.0
+2017,Alberta,Minus: household actual final consumption,191525.0
+2017,Alberta,Plus: change in pension entitlements,3911.0
+2017,Alberta,Equals: household net saving,5497.0
+2017,British Columbia,Household disposable income,172157.0
+2017,British Columbia,Plus: social transfers in kind,35152.0
+2017,British Columbia,Equals: adjusted household disposable income,207309.0
+2017,British Columbia,Adjusted household disposable income,207309.0
+2017,British Columbia,Minus: household actual final consumption,214948.0
+2017,British Columbia,Plus: change in pension entitlements,4217.0
+2017,British Columbia,Equals: household net saving,-3422.0
+2017,Yukon,Household disposable income,1742.0
+2017,Yukon,Plus: social transfers in kind,733.0
+2017,Yukon,Equals: adjusted household disposable income,2475.0
+2017,Yukon,Adjusted household disposable income,2475.0
+2017,Yukon,Minus: household actual final consumption,2141.0
+2017,Yukon,Plus: change in pension entitlements,42.0
+2017,Yukon,Equals: household net saving,376.0
+2017,Northwest Territories,Household disposable income,1892.0
+2017,Northwest Territories,Plus: social transfers in kind,1073.0
+2017,Northwest Territories,Equals: adjusted household disposable income,2965.0
+2017,Northwest Territories,Adjusted household disposable income,2965.0
+2017,Northwest Territories,Minus: household actual final consumption,2766.0
+2017,Northwest Territories,Plus: change in pension entitlements,65.0
+2017,Northwest Territories,Equals: household net saving,264.0
+2017,Nunavut,Household disposable income,1221.0
+2017,Nunavut,Plus: social transfers in kind,924.0
+2017,Nunavut,Equals: adjusted household disposable income,2145.0
+2017,Nunavut,Adjusted household disposable income,2145.0
+2017,Nunavut,Minus: household actual final consumption,1754.0
+2017,Nunavut,Plus: change in pension entitlements,64.0
+2017,Nunavut,Equals: household net saving,455.0
+2017,Outside Canada,Household disposable income,506.0
+2017,Outside Canada,Plus: social transfers in kind,0.0
+2017,Outside Canada,Equals: adjusted household disposable income,506.0
+2017,Outside Canada,Adjusted household disposable income,506.0
+2017,Outside Canada,Minus: household actual final consumption,170.0
+2017,Outside Canada,Plus: change in pension entitlements,
+2017,Outside Canada,Equals: household net saving,336.0
+2018,Canada,Household disposable income,1221274.0
+2018,Canada,Plus: social transfers in kind,315358.0
+2018,Canada,Equals: adjusted household disposable income,1536632.0
+2018,Canada,Adjusted household disposable income,1536632.0
+2018,Canada,Minus: household actual final consumption,1569845.0
+2018,Canada,Plus: change in pension entitlements,46325.0
+2018,Canada,Equals: household net saving,13112.0
+2018,Newfoundland and Labrador,Household disposable income,
+2018,Newfoundland and Labrador,Plus: social transfers in kind,
+2018,Newfoundland and Labrador,Equals: adjusted household disposable income,
+2018,Newfoundland and Labrador,Adjusted household disposable income,
+2018,Newfoundland and Labrador,Minus: household actual final consumption,
+2018,Newfoundland and Labrador,Plus: change in pension entitlements,
+2018,Newfoundland and Labrador,Equals: household net saving,
+2018,Prince Edward Island,Household disposable income,
+2018,Prince Edward Island,Plus: social transfers in kind,
+2018,Prince Edward Island,Equals: adjusted household disposable income,
+2018,Prince Edward Island,Adjusted household disposable income,
+2018,Prince Edward Island,Minus: household actual final consumption,
+2018,Prince Edward Island,Plus: change in pension entitlements,
+2018,Prince Edward Island,Equals: household net saving,
+2018,Nova Scotia,Household disposable income,
+2018,Nova Scotia,Plus: social transfers in kind,
+2018,Nova Scotia,Equals: adjusted household disposable income,
+2018,Nova Scotia,Adjusted household disposable income,
+2018,Nova Scotia,Minus: household actual final consumption,
+2018,Nova Scotia,Plus: change in pension entitlements,
+2018,Nova Scotia,Equals: household net saving,
+2018,New Brunswick,Household disposable income,
+2018,New Brunswick,Plus: social transfers in kind,
+2018,New Brunswick,Equals: adjusted household disposable income,
+2018,New Brunswick,Adjusted household disposable income,
+2018,New Brunswick,Minus: household actual final consumption,
+2018,New Brunswick,Plus: change in pension entitlements,
+2018,New Brunswick,Equals: household net saving,
+2018,Quebec,Household disposable income,
+2018,Quebec,Plus: social transfers in kind,
+2018,Quebec,Equals: adjusted household disposable income,
+2018,Quebec,Adjusted household disposable income,
+2018,Quebec,Minus: household actual final consumption,
+2018,Quebec,Plus: change in pension entitlements,
+2018,Quebec,Equals: household net saving,
+2018,Ontario,Household disposable income,
+2018,Ontario,Plus: social transfers in kind,
+2018,Ontario,Equals: adjusted household disposable income,
+2018,Ontario,Adjusted household disposable income,
+2018,Ontario,Minus: household actual final consumption,
+2018,Ontario,Plus: change in pension entitlements,
+2018,Ontario,Equals: household net saving,
+2018,Manitoba,Household disposable income,
+2018,Manitoba,Plus: social transfers in kind,
+2018,Manitoba,Equals: adjusted household disposable income,
+2018,Manitoba,Adjusted household disposable income,
+2018,Manitoba,Minus: household actual final consumption,
+2018,Manitoba,Plus: change in pension entitlements,
+2018,Manitoba,Equals: household net saving,
+2018,Saskatchewan,Household disposable income,
+2018,Saskatchewan,Plus: social transfers in kind,
+2018,Saskatchewan,Equals: adjusted household disposable income,
+2018,Saskatchewan,Adjusted household disposable income,
+2018,Saskatchewan,Minus: household actual final consumption,
+2018,Saskatchewan,Plus: change in pension entitlements,
+2018,Saskatchewan,Equals: household net saving,
+2018,Alberta,Household disposable income,
+2018,Alberta,Plus: social transfers in kind,
+2018,Alberta,Equals: adjusted household disposable income,
+2018,Alberta,Adjusted household disposable income,
+2018,Alberta,Minus: household actual final consumption,
+2018,Alberta,Plus: change in pension entitlements,
+2018,Alberta,Equals: household net saving,
+2018,British Columbia,Household disposable income,
+2018,British Columbia,Plus: social transfers in kind,
+2018,British Columbia,Equals: adjusted household disposable income,
+2018,British Columbia,Adjusted household disposable income,
+2018,British Columbia,Minus: household actual final consumption,
+2018,British Columbia,Plus: change in pension entitlements,
+2018,British Columbia,Equals: household net saving,
+2018,Yukon,Household disposable income,
+2018,Yukon,Plus: social transfers in kind,
+2018,Yukon,Equals: adjusted household disposable income,
+2018,Yukon,Adjusted household disposable income,
+2018,Yukon,Minus: household actual final consumption,
+2018,Yukon,Plus: change in pension entitlements,
+2018,Yukon,Equals: household net saving,
+2018,Northwest Territories,Household disposable income,
+2018,Northwest Territories,Plus: social transfers in kind,
+2018,Northwest Territories,Equals: adjusted household disposable income,
+2018,Northwest Territories,Adjusted household disposable income,
+2018,Northwest Territories,Minus: household actual final consumption,
+2018,Northwest Territories,Plus: change in pension entitlements,
+2018,Northwest Territories,Equals: household net saving,
+2018,Nunavut,Household disposable income,
+2018,Nunavut,Plus: social transfers in kind,
+2018,Nunavut,Equals: adjusted household disposable income,
+2018,Nunavut,Adjusted household disposable income,
+2018,Nunavut,Minus: household actual final consumption,
+2018,Nunavut,Plus: change in pension entitlements,
+2018,Nunavut,Equals: household net saving,
+2018,Outside Canada,Household disposable income,
+2018,Outside Canada,Plus: social transfers in kind,
+2018,Outside Canada,Equals: adjusted household disposable income,
+2018,Outside Canada,Adjusted household disposable income,
+2018,Outside Canada,Minus: household actual final consumption,
+2018,Outside Canada,Plus: change in pension entitlements,
+2018,Outside Canada,Equals: household net saving,
